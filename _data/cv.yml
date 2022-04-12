@@ -1,0 +1,124 @@
+entries:
+  - title: Solo exhibitions
+    entries:
+    - title: "GARAGE: a visual taxonomy of johannesburg"
+      year: 2017
+      gallery: Art Hub Studios
+      location: London, GB
+      link:
+  - title: Joint exhibitions
+    entries:
+    - title: Funhouse
+      year: 2021
+      joint_artist: Will Thorburn
+      gallery: Space Bar
+      location: Folkestone, GB
+      link:
+  - title: As curator
+    entries:
+    - title: Badlands
+      year: 2022
+      gallery: no format Gallery
+      location: London, GB
+      link:
+  - title: Selected group exhibitions
+    entries:
+    - title: Badlands
+      year: 2022
+      gallery: no format Gallery
+      location: London, GB
+      link:
+    - title: Abstract
+      year: 2021
+      gallery: Fronteer Gallery
+      location: Sheffield, GB
+      link: https://www.fronteer.co.uk/past-exhibitions
+    - title: Turps Off-site Leavers Show
+      year: 2021
+      gallery: Thames-side Studios Gallery
+      location: London, GB
+      link: https://thames-sidestudios.co.uk/news/exhibitions/2021/thames-side-studios-gallery-turps-offsite-painting-programme-2-16-oct-2021
+    - title: Norval Foundation x Art Gazette
+      year: 2021
+      gallery: Norval Foundation
+      location: Cape Town, ZA
+      link: https://www.norvalfoundation.org/shop/
+    - title: Fronteer Open
+      year: 2019
+      gallery: 35 Chapel Walk
+      location: Sheffield, GB
+      link: https://www.fronteer.co.uk/past-exhibitions
+    - title: Group show
+      year: 2019
+      gallery: Ad Lib Gallery
+      location: London, GB
+      link:
+    - title: Superette
+      year: 2019
+      gallery: PADA Studios
+      location: Barreiro, PT
+      link: https://www.padastudios.com/residency-exhibitions
+    - title: Mistakes
+      year: 2012
+      gallery: 50 Canterbury Street
+      location: Cape Town, ZA
+      link:
+    - title: This Must Be The Place
+      year: 2011
+      gallery: iArt Gallery
+      location: Cape Town, ZA
+      link:
+    - title: I Can Never Sleep on Sundays
+      year: 2010
+      gallery: Michaelis Graduate Exhibition
+      location: Cape Town, ZA
+      link:
+    - title: A One Night Affair
+      year: 2010
+      gallery: A WORD OF ART
+      location: Cape Town, ZA
+      link:
+    - title: Proof of Life
+      year: 2009
+      gallery: VANSA
+      location: Cape Town, ZA
+      link:    
+  - title: "Residencies &amp; programmes"
+    entries:
+      - title: Turps Art School off-site programme
+        year: 2020-2021
+        location: London, GB
+        link: https://www.turpsbanana.com/
+      - title: Artist in residence, PADA Studios
+        year: 2019
+        location: Barreiro, PT
+        link: https://www.padastudios.com/artists-in-residence-2019
+  - title: "Awards, interviews &amp; publications"
+    entries:
+      - title: Turps Off-site Leavers Show exhibition catalogue
+        year: 2021
+        link: /assets/docs/turps_off_site_leavers_show_2020_21_exhibition_catalogue.pdf
+      - title: Contributing artist for Zone Arts
+        year: 2020
+        link: https://zonearts.co.uk/collections/george-chapman
+      - title: In conversation with Saskia Fleishman for PADA's Long Range Studio Visits
+        year: 2020
+        link: https://www.padastudios.com/chapman-fleishman
+      - title: Contributing artist for Art Gazette
+        year: 2020
+        link: https://www.artgazette.com/artist/george-chapman
+      - title: Interview with Hazel Brown for Discovering Tottenham
+        year: 2017
+        link: https://discoveringtottenham.com/2018/04/12/euroart-studios-tottenham-george-chapman-painter/
+      - title: I Can Never Sleep on Sundays exhibition catalogue
+        year: 2010
+        link: http://localhost:8080/assets/docs/george_chapman-i_can_never_sleep_on_sundays_exhibition_catalogue_2010.pdf
+      - title: Michaelis School of Art graduate exhibition catalogue
+        year: 2010
+        link:
+      - title: Judy Steinberg Award for painting, Michaelis School of Fine Art
+        year: 2010
+        link:
+      - title: Work selected for inclusion in the University of Cape Town Art Collection 
+        year: 2010
+        link: https://ibali.uct.ac.za/s/woac/item/4104

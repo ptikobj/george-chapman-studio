@@ -1,0 +1,25 @@
+title: George Chapman
+email: george@gnchapman.com
+description: >-
+  Website of artist George Chapman. View paintings and current 
+  exhibitions, and sign up for news and updates.
+baseurl: ""
+url: "https://gnchapman.com"
+instagram: gn.chapman
+newsletter_url: https://buttondown.email/georgechapman
+collections:
+  paintings:
+    output: true
+  authors:
+
+favicon: "favicon.ico"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+exclude:
+  - .jekyll-cache/

@@ -1,0 +1,19 @@
+{%-for item in include.collection-%}
+  {% assign link = item.link | strip_newlines %}
+  {% assign gallery = item.gallery | strip_newlines %}
+  <p class="lh-copy measure-ns measure-wide-l mt0">
+    {% if gallery == "" %}
+      {% if link == "" %}
+        {{ item.year }} — {{ item.title }}{% if item.location %}, {{ item.location }}{% endif %}
+      {% else %}
+        {{ item.year }} — <a href="{{ link }}" target="_blank" class="bb b--dashed bl-0 bt-0 br-0 black-90 hover-red link ma0 sans-serif">{{ item.title }}{% if item.location %}, {{ item.location }}{% endif %}</a>
+      {% endif %}
+    {% else %}
+      {% if link == "" %}
+        {{ item.year }} — <em>{{ item.title }}</em>{% if item.joint_artist %} with {{ item.joint_artist }}{% endif %}{% if item.gallery %}, {{ item.gallery }}{% endif %}{% if item.location %}, {{ item.location }}{% endif %}
+      {% else %}
+        {{ item.year }} — <a href="{{ link }}" target="_blank" class="bb b--dashed bl-0 bt-0 br-0 black-90 hover-red link ma0 sans-serif"><em>{{ item.title }}</em>{% if item.joint_artist %} with {{ item.joint_artist }}{% endif %}{% if item.gallery %}, {{ item.gallery }}{% endif %}{% if item.location %}, {{ item.location }}{% endif %}</a>
+      {% endif %}
+    {% endif %}
+  </p>
+{% endfor %}

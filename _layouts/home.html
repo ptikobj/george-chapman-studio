@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<!-- gallery container -->
+<div id="gallery" class="flex flex-wrap">
+
+  {% if page.img and page.caption %}
+    <!-- image link -->  
+    <div class="flex ctr-align fl w-100 pt3 pa4-ns pb0-ns tl tc-ns">
+      <img src="{{ site.baseurl }}/assets/img/{{ page.img }}" alt="{{ page.caption }}" class="dib">
+    </div>
+    <div class="flex ctr-align fl w-100 pb3 pa4-ns pt0-ns tl tc-ns">
+      <p class="f7 f6-m f5-l typewriter tl">{{ page.caption }}</p>
+    </div>
+    <!-- /image link -->
+  {% endif %}
+
+</div>
+<!-- /gallery container -->

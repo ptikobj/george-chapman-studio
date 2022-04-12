@@ -1,0 +1,12 @@
+---
+layout: default
+---
+{% for post in site.posts %}
+  <!-- image link -->
+  <div class="flex ctr-align fl w-100 w-50-m w-third-l pv3 pa4-ns tl tc-ns">
+    <a href="{{ post.url }}" title="{{ post.short_title }}" class="black-90 hover-red link writing">
+      <img src="{{ post.image }}" alt="{{ post.short_title }}" class="dib writing">
+    </a>
+  </div>
+  <!-- /image link -->
+{% endfor %}

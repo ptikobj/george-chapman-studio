@@ -1,0 +1,26 @@
+.sans-serif {
+  font-family: 'Arimo', sans-serif;
+}
+
+.typewriter {
+  font-family: 'Courier New', 'Courier', 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+/*  font-size: 1rem;*/
+}
+
+.bg-baby-powder {
+  background: #fefefa;
+}
+
+.ctr-align {
+  align-items: center;
+}
+
+img {
+  max-height: 100%;
+}
+
+/*
+img.writing:hover {
+  -webkit-filter: invert(100%) !important;
+}
+*/
