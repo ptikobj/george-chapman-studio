@@ -2,14 +2,13 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>
-      {%- if page.title -%}
-        {{ page.title }}
-      {%- else -%}
-        {{ site.title }}
-      {%- endif -%}
+    {% if page.is_home %}
+    <title>{{ page.title }}</title>
+    {% else %}
+    <title>{{ site.title }}</title>
+    {% endif %}
     </title>
-    <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}" />
+    <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}">
     <link rel="stylesheet" href="/assets/css/tachyons.min.css" crossorigin="anonymous">
     <link rel="stylesheet" href="/assets/css/style.css" crossorigin="anonymous">
     <link rel="stylesheet" href="/assets/css/fonts.min.css" crossorigin="anonymous">
@@ -17,8 +16,8 @@
     <script type="text/javascript" src="/assets/js/page.js"></script>
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="author" content="{% if site.author %}{{ site.author }}{% endif %}">
-    <meta name="description" content="{% if site.description %}{{ site.description }}{% endif %}">
+    <!--<meta name="author" content="{% if site.author %}{{ site.author }}{% endif %}">-->
+    <!--<meta name="description" content="{% if site.description %}{{ site.description }}{% endif %}">-->
     {% feed_meta %}
     {% seo %}
   </head>
