@@ -1,15 +1,23 @@
 ---
 layout: default
-title: Writing — George Chapman
 ---
 <div class="fl w-100 pt2 pb4 bb bn-ns blogpost">
-  <div class="fl w-100 w-10-ns w-20-l pa2 pb4 pb0-ns ma0"></div>
-  <div class="fl w-100 w-90-ns w-80-l pa2 pb4 pb0-ns ma0">
+  <div class="fl w-30-l pa2 pb4 pb0-ns ma0 dn dib-ns"></div>
+  <div class="fl w-100 w-40-l pa2 pb4 pb0-ns ma0">
     <div class="lh-copy measure-ns measure-wide-l mt0 mt1-l">
-      {{ content }}
+      {% assign artworks = site.data.artworks | where:"title", page.artwork_title %}
+      {% for item in artworks %}
+      <a href="{{ site.baseurl }}/paintings/{{ item.title | slugify }}.html" title="{{ item.title }}" class="black-90 hover-red link painting">
+        <img src="{{ site.baseurl }}/assets/img/{{ item.image }}" alt="{{ item.title }}" class="dib painting w-100">
+      </a>
+      <p class="tl f6 f5-ns measure typewriter">{{ item.title }}</p>
+      <p class="tl f6 f5-ns measure typewriter">{{ item.year }}</p>
+      <p class="tl f6 f5-ns measure typewriter">{{ item.medium }}</p>
+      <p class="tl f6 f5-ns measure typewriter">{{ item.size }}</p>
+      {% endfor %}
       <br>
       &mdash;
     </div>
+    <div class="fl w-30-l pa2 pb4 pb0-ns ma0 dn dib-ns"></div>
   </div>
-  <div class="fl w-100 w-10-ns w-20-l pa2 pb4 pb0-ns ma0"></div>
 </div>

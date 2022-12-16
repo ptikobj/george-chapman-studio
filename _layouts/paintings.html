@@ -4,14 +4,11 @@ layout: default
 <div class="flex flex-wrap">
   {% assign artworks = site.data.artworks | where:"category", page.category %}
   {% for item in artworks %}
-    <!-- image link -->
-    <!-- <div class="flex ctr-align fl w-100 w-50-m w-third-l pv3 pa4-ns tl tc-ns"> -->
     <div class="fl w-100 w-50-m w-third-l pv3 pa4-ns tl tc-ns">
       <a href="{{ site.baseurl }}/paintings/{{ item.title | slugify }}.html" title="{{ item.title }}" class="black-90 hover-red link painting">
         <img src="{{ site.baseurl }}/assets/img/{{ item.image }}" alt="{{ item.title }}" class="dib painting">
       </a>
       <p class="tl f6 f5-ns measure typewriter">{{ item.title }}</p>
     </div>
-    <!-- /image link -->
   {% endfor %}
 </div>

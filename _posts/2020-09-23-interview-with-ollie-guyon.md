@@ -5,11 +5,12 @@ title: "Interview with Ollie Guyon — Writing — George Chapman"
 short_title: "Interview with Ollie Guyon"
 description: "Discussing Venetian painters, minimalism, and working with virulent pigments, Ollie Guyon shares some insights about his studio practice through a look at one of his painting, 'Britney'."
 image: /assets/img/interview-with-ollie-guyon-white.jpg
+permalink: /writing/interview-with-ollie-guyon
 ---
 # Interview with Ollie Guyon {#title}
 23 September 2020
 
-![Oliver Guyon, 'Britney', 2018. Mineral pigment, casein, Strasbourg turpentine, gesso and linen on panel. Photo by George Chapman.](/assets/img/.jpg)
+![Oliver Guyon, 'Britney', 2018. Mineral pigment, casein, Strasbourg turpentine, gesso and linen on panel. Photo by George Chapman.](/assets/img/Ollie_Guyon-Britney-2018-1.jpg)
 
 GC: Can you talk about your trajectory into painting? What were your early visual art influences? Any particular works that come to mind, artists or movements that were important for you?
 

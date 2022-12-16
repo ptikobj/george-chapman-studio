@@ -16,18 +16,33 @@ entries:
       link:
   - title: As curator
     entries:
+    - title: Nest of Salt
+      year: 2023
+      gallery: AMP Gallery
+      location: London, GB
+      link:
     - title: Badlands
       year: 2022
       gallery: no format Gallery
       location: London, GB
-      link:
+      link: https://www.secondfloor.co.uk/exhibitions/badlands-group-exhibition
   - title: Selected group exhibitions
     entries:
+    - title: Nest of Salt
+      year: 2023
+      gallery: AMP Gallery
+      location: London, GB
+      link:
+    - title: SFSA Painting Open
+      year: 2022
+      gallery: no format Gallery
+      location: London, GB
+      link: https://www.secondfloor.co.uk/painting-open
     - title: Badlands
       year: 2022
       gallery: no format Gallery
       location: London, GB
-      link:
+      link: https://www.secondfloor.co.uk/exhibitions/badlands-group-exhibition
     - title: Abstract
       year: 2021
       gallery: Fronteer Gallery
@@ -82,7 +97,7 @@ entries:
       year: 2009
       gallery: VANSA
       location: Cape Town, ZA
-      link:    
+      link:
   - title: "Residencies &amp; programmes"
     entries:
       - title: Turps Art School off-site programme
@@ -119,6 +134,6 @@ entries:
       - title: Judy Steinberg Award for painting, Michaelis School of Fine Art
         year: 2010
         link:
-      - title: Work selected for inclusion in the University of Cape Town Art Collection 
+      - title: Work selected for inclusion in the University of Cape Town Art Collection
         year: 2010
         link: https://ibali.uct.ac.za/s/woac/item/4104

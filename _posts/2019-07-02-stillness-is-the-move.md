@@ -5,6 +5,7 @@ title: "Stillness is the Move: Material and transcendental space in Tess Jaray a
 short_title: "Stillness is the Move: Material and transcendental space in Tess Jaray and Mark Rothko's paintings"
 description: "A comparison of the Mark Rothko's chapel paintings and the recent exhibition 'From Outside' by UK abstract painter Tess Jaray."
 image: /assets/img/stillness-is-the-move-white.jpg
+permalink: /writing/stillness-is-the-move
 ---
 # Stillness Is the Move: Material and transcendental space in Tess Jaray and Mark Rothko's paintings {#title}
 2 July 2019
