@@ -13,19 +13,19 @@ permalink: /writing/fugitive-space-pada-studios
 > "...these days, surely, it was in these crowded places where thousands of individual itineraries converged for a moment, unaware of one another, that there survived something of the uncertain charm of the waste lands, the yards and building sites, the station platforms and waiting rooms where travellers break step, of all the chance meeting places where fugitive feelings occur of the possibility of continuing adventure, the feeling that all there is to do is to *see what happens*."  
 > — Marc Augé, *Non-Places: An Introduction to an Anthropology of Supermodernity*
 
-PADA Studios, Barreiro
+![PADA Studios, Barreiro. Photo: PADA Studios](/assets/img/fugitive_space-1.jpg)
 
 Barreiro is a town located about six miles south of Lisbon across the Tagus. It is the home of the former Companhia União Fabril, a diversified corporation founded by the industrialist Alfredo da Silva in 1871 and nationalised in 1975 after the Carnation Revolution. The city’s history is inextricably tied to the fortunes of CUF. Its success in the late 19th and early 20th century resulted in an expansion of the town’s sprawling industrial factories and reclaimed coastline, and its subsequent collapse following nationalisation led to an exodus of workers and residents, leaving the town starved of investment and work opportunities for decades after. Monuments to da Silva, the company, and its former workers are scattered across the old town. Da Silva is buried in a mausoleum on the industrial estate, now owned by Baía do Tejo, a private land management company.
 
 Today, swathes of empty factories compose the industrial landscape. A restricted area containing two pyrite ash fields and buildings in various stages of abandon and decay forms the north edge of the park. Private companies have begun renting some of the former CUF warehouses and factory buildings leased from Baía do Tejo, in what appears to be the early stages of economic regeneration for the town. Some former employees of CUF still live in the workers' quarters that haven't been rented out since CUF's collapse in the mid-1970s, until PADA Studios was offered two cottages on the estate in 2018 to house artists participating in their residency programme.
 
-Tim Ralston and Diana Cerezino, founders of PADA Studios
+![Tim Ralston and Diana Cerezino, founders of PADA Studios. Photo: Fiona Grady](/assets/img/fugitive_space-2.jpg)
 
 In the summer of 2018, Tim Ralston and Diana Cerezino relocated from London to Barreiro to set up PADA Studios in Barreiro on the grounds of the former CUF industrial estate. "It began as a dream, a way to start a new life in Lisbon, but when we found our current location we quickly realized it was possible to make it happen. Lisbon and in particular the south bay, is the ideal place to start a project like this," Tim told Brooke Hailey Hoffert in an interview for Floorr Magazine. Diana adds, "Every time we visited my family in Portugal we spent time exploring abandoned buildings in the old industrial areas around Lisbon. Old factories are everywhere and we loved imagining the projects we could create in them."
 
 In September 2018, PADA launched its residency programme to offer one- to three-month residencies to international artists. The residency is artist-led. Participants approach Tim or Diana with requirements to carry out projects during their stay. With the exception of a one-to-one session with Tim in the second week, a group crit and exhibition at the end of the residency, artists are left to get on with their own work schedules in the studio.
 
-Pyrite field on the former industrial estate of CUF, now owned by Baía do Tejo
+![Pyrite field on the former industrial estate of CUF, now owned by Baía do Tejo. Photo: PADA Studios](/assets/img/fugitive_space-3.jpg)
 
 PADA was my first artist residency experience, and so I wasn't sure what to expect as I had nothing to compare it with. I found the environment liberating, and quite similar to being back at art school, with the difference being that all artists at PADA actually show up each day to do the work.
 
@@ -35,4 +35,4 @@ Having spent the past eighteen months not painting for lack of a proper studio, 
 
 We often idealise the artist in their studio, working until the early hours and sleeping in their studio to be close to their work. Personally, I found that structure and time-limited days are my most productive. Daily distractions and routines are a part of everyday life; without them, you're bound to burn out. Images need time to drift. While a month doesn't seem like much time to complete a coherent body of work, by the second and third weeks we were all surprised by the amount of work we had turned out. Creating work in a new and unfamiliar environment was both very challenging and stimulating. Being around artists who work around the clock had a way of resuscitating my flagging ambition to create something new.
 
-Superette, a group show featuring the work of PADA artists-in-residence during August 2019
+![Superette, a group show featuring the work of PADA artists-in-residence during August 2019. Photo: PADA Studios](/assets/img/fugitive_space-4.jpg)
