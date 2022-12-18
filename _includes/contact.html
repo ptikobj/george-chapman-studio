@@ -1,21 +1,11 @@
 <div class="fl w-100 pt2 pb4 bb bn-ns">
-  <div class="fl w-100 w-20-ns pb4 pb0-ns ma0">
+  <div class="fl w-100 w-20-ns pb4">
     <h1 class="f5 f4-m f3-l fw1 lh-copy mt0">Contact</h1>
   </div>
-  <div class="fl w-100 w-80-ns pb4 pb0-ns ma0">
-
-    {%-include contact_form.html-%}
-
-    {% if site.newsletter_url %}
-      <p class="lh-copy measure-ns measure-wide-l mt0 mt1-l">
-        <a href="{{ site.newsletter_url }}" class="bb b--dashed bl-0 bt-0 br-0 black-90 hover-red link ma0" target="_blank">Subscribe to my newsletter</a>
-      </p>
-    {% endif %}
-    {% if site.instagram %}
-      <p class="lh-copy measure-ns measure-wide-l mt0 mt1-l">
-        <a href="https://www.instagram.com/{{ site.instagram }}/" class="bb b--dashed bl-0 bt-0 br-0 black-90 hover-red link ma0" target="_blank">Instagram</a>
-      </p>
-    {% endif %}
-    <p class="dn dib-ns">—</p>
+  <div class="fl w-100 w-80-ns pb4">
+    {%-include contact-form.html-%}
+    <br>
+    <br>
+    <p class="dn di-ns">—</p>
   </div>
 </div>

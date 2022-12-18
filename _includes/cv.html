@@ -1,14 +1,14 @@
 <div class="fl w-100 pt2 pb4 bb bn-ns">
-  <div class="fl w-100 w-20-ns pb4 pb0-ns ma0"> 
+  <div class="fl w-100 w-20-ns pb4 pb0-ns ma0">
     <h1 class="f5 f4-m f3-l fw1 lh-copy mt0">CV</h1>
   </div>
-  <div class="fl w-100 w-80-ns pb4 pb0-ns ma0"> 
+  <div class="fl w-100 w-80-ns pb4 pb0-ns ma0">
     {% for item in site.data.bio %}
       <p class="lh-copy measure-ns measure-wide-l mt0 mt1-l">{{ item.birthplace }}</p>
       <p class="lh-copy measure-ns measure-wide-l mt0">{{ item.education }}</p>
       <p class="lh-copy measure-ns measure-wide-l mt0">{{ item.current_city }}</p>
     {% endfor %}
-    {%-include cv_item.html collection=site.data.cv.entries-%}
+    {%-include cv-item.html collection=site.data.cv.entries-%}
     <p class="lh-copy dn dib-ns">—</p>
   </div>
 </div>

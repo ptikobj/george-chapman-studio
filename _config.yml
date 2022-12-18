@@ -1,5 +1,5 @@
 title: George Chapman
-email: 
+email:
 description: >-
   Website of artist George Chapman. View paintings and current
   exhibitions, and sign up for news and updates.
@@ -15,7 +15,10 @@ collections:
 favicon: "favicon.ico"
 
 # Build settings
-theme: minima
+# theme: minima
+sass:
+    style: compressed
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap

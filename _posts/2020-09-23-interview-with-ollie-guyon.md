@@ -10,7 +10,7 @@ permalink: /writing/interview-with-ollie-guyon
 # Interview with Ollie Guyon {#title}
 23 September 2020
 
-![Oliver Guyon, 'Britney', 2018. Mineral pigment, casein, Strasbourg turpentine, gesso and linen on panel. Photo by George Chapman.](/assets/img/Ollie_Guyon-Britney-2018-1.jpg)
+![Oliver Guyon, 'Britney', 2018. Mineral pigment, casein, Strasbourg turpentine, gesso and linen on panel. Photo by George Chapman.](/assets/img/interview_with_ollie_guyon-1.jpg)
 
 GC: Can you talk about your trajectory into painting? What were your early visual art influences? Any particular works that come to mind, artists or movements that were important for you?
 
@@ -24,7 +24,7 @@ OG: In my third year of art school I was making process-led paintings that were 
 
 By means of traditional processes and materials, these works were distinguished by the chromatic intensity of natural colour. Focusing on individual colours, I was able to expose the subtle differences in behaviour between apparently similar materials. Through the process of making paint, one can better understand the chemistry of colours: their inherent transparency or opaqueness, their viscosity or fluidity. I feel these works embody tension between a two-dimensional image and three-dimensional object.
 
-![Oliver Guyon, 'Britney', 2018. Mineral pigment, casein, Strasbourg turpentine, gesso and linen on panel. Photo by George Chapman.](/assets/img/.jpg)
+![Oliver Guyon, 'Britney', 2018. Mineral pigment, casein, Strasbourg turpentine, gesso and linen on panel. Photo by George Chapman.](/assets/img/interview_with_ollie_guyon-2.jpg)
 
 GC: I've struggled to compare your painting 'Britney' to other contemporary minimalist or abstract paintings. One artist whose work seems to relate to your practice is Barbara Nicholls. While her paintings are quite aesthetically different from yours, she is also concerned with reducing painting to its elemental state. Her watercolours show the transition from pigment to watercolour and back to pigment. With 'Britney' you're also transforming the pigment from its elemental state into a painterly surface. Are you interested in the alchemy of painting, of transmuting the pigment into something else? (As a side note, I see the name orpiment is derived from the Latin "auripigmentum", meaning "gold pigment". Since alchemy was traditionally about transforming base metals into gold, it's interesting that you've used a pseudo-gold pigment as the subject for this painting.)
 
@@ -34,7 +34,7 @@ OG: I have always found the art critic James Elkins makes a lot of interesting a
 
 The stuff of paint, the smell of oils, the magic of the painter's studio - I think this is part of what drives a lot of artists to stick with painting. It's a sacred practice. Even though the aesthetic of my current work crosses into sculptural territory, the material elements are still rooted in what it is to be a painter. I think to view a painter as some sort of alchemist carries a lot of weight. Alchemy is the most developed language for thinking in terms of substance and processes. Since art history and criticism are so adept in thinking about what paint represents, then it should be possible to find a meaning within paint itself: this is where the language of alchemy is most useful.
 
-![Oliver Guyon, 'Britney' (detail), 2018. Mineral pigment, casein, Strasbourg turpentine, gesso and linen on panel. Photo by George Chapman.](/assets/img/.jpg)
+![Oliver Guyon, 'Britney' (detail), 2018. Mineral pigment, casein, Strasbourg turpentine, gesso and linen on panel. Photo by George Chapman.](/assets/img/interview_with_ollie_guyon-3.jpg)
 
 GC: What attracted you to using orpiment, given its toxicity and incompatibility with other pigments and substances? Do you routinely work with toxic or inorganic substances?
 
