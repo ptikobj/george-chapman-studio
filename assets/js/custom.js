@@ -1,14 +1,126 @@
-var $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.createTemplateTagFirstArg=function(a){return a.raw=a};$jscomp.createTemplateTagFirstArgWithRaw=function(a,c){a.raw=c;return a};$jscomp.arrayIteratorImpl=function(a){var c=0;return function(){return c<a.length?{done:!1,value:a[c++]}:{done:!0}}};$jscomp.arrayIterator=function(a){return{next:$jscomp.arrayIteratorImpl(a)}};$jscomp.makeIterator=function(a){var c="undefined"!=typeof Symbol&&Symbol.iterator&&a[Symbol.iterator];return c?c.call(a):$jscomp.arrayIterator(a)};
-var KEYCODE_TAB=9,KEYCODE_ENTER=13,KEYCODE_ESCAPE=27,KEYCODE_ARROWLEFT=37,KEYCODE_ARROWRIGHT=39,PREV_IMAGE=0,NEXT_IMAGE=1;var domIsReady=function(a){return a=function(c){c&&"function"===typeof c?"ie"!==(document.attachEvent&&"undefined"!==typeof document.attachEvent?"ie":"not-ie")?document.addEventListener("DOMContentLoaded",function(){return c()}):document.attachEvent("onreadystatechange",function(){if("complete"===document.readyState)return c()}):console.error("The callback is not a function!")}}(domIsReady||{});updateArtworkModal=function(a,c){a="A"===a.nodeName?a.querySelector("img"):a;c.querySelector("img").src=a.src;c.querySelector("img").alt=a.alt;c.querySelector("img").dataset.index=a.dataset.index;c=c.querySelectorAll(".artwork-title,.artwork-year,.artwork-medium,.artwork-size");for(var d=0;d<c.length;d++)c[d].classList.contains("artwork-title")?c[d].innerText=a.dataset.title:c[d].classList.contains("artwork-year")?c[d].innerText=a.dataset.year:c[d].classList.contains("artwork-medium")?c[d].innerText=
-a.dataset.medium:c[d].classList.contains("artwork-size")&&(c[d].innerText=a.dataset.size)};
-closeArtworkModal=function(){var a=document.getElementById("artwork-modal-container");a.classList.contains("dn")||(a.classList.add("dn"),a.setAttribute("aria-modal","false"),a.querySelector("img").setAttribute("src",""),a.querySelector("img").dataset.index="",a.querySelector(".artwork-title").innerText="",a.querySelector(".artwork-year").innerText="",a.querySelector(".artwork-medium").innerText="",a.querySelector(".artwork-size").innerText="",a=document.getElementById("gallery"),a.classList.contains("dn")&&
-(a.classList.remove("dn"),a.removeAttribute("aria-hidden","true")),a.classList.contains("flex")||a.classList.add("flex"),document.querySelector(".last-focus")&&(a=document.querySelector(".last-focus"),a.classList.remove("last-focus"),a.focus()))};
-openArtworkModal=function(a){var c=document.getElementById("artwork-modal-container");c.classList.contains("dn")&&(updateArtworkModal(a,c),a.classList.add("last-focus"),a=document.getElementById("gallery"),a.classList.contains("dn")||(a.classList.add("dn"),a.setAttribute("aria-hidden","true")),a.classList.contains("flex")&&a.classList.remove("flex"),c.classList.remove("dn"),c.setAttribute("aria-modal","true"),c.querySelector("img").focus())};
-cycleArtworkModalImage=function(a){var c=document.querySelector("[aria-modal='true']"),d=c.querySelector("img"),m=document.querySelectorAll("#gallery img");1>m.length||c.classList.contains("hidden")||(d=parseInt(d.dataset.index),a===NEXT_IMAGE?d===m.length?d=1:d++:1===d?d=m.length:d--,nextImg=m[d-1],updateArtworkModal(nextImg,c))};(function(a,c,d,m){d(function(){function x(b,e){var f,t,u,p,q,v,w,y=e||function(k){};b.addEventListener("touchstart",function(k){var n=k.changedTouches[0];f="none";dist=0;t=n.pageX;u=n.pageY;w=(new Date).getTime();k.preventDefault()},!1);b.addEventListener("touchmove",function(k){k.preventDefault()},!1);b.addEventListener("touchend",function(k){var n=k.changedTouches[0];p=n.pageX-t;q=n.pageY-u;v=(new Date).getTime()-w;300>=v&&(150<=Math.abs(p)&&100>=Math.abs(q)?f=0>p?"left":"right":150<=Math.abs(q)&&
-100>=Math.abs(p)&&(f=0>q?"up":"down"));y(f);k.preventDefault()},!1)}for(var l=a.querySelectorAll("a.modal"),g=0;g<l.length;g++){var h=l[g];h.addEventListener("click",function(b){if(b.target.matches("a.modal")||b.target.matches("img"))b.preventDefault(),openArtworkModal(b.target)},!0);h.addEventListener("keydown",function(b){"Enter"!==b.code&&b.keyCode!==KEYCODE_ENTER||!b.target.matches("a.modal")&&!b.target.matches("img")||openArtworkModal(b.target)},!0)}l=function(b){b.target.matches(".close-artwork-modal")&&
-("keydown"!==b.type||"Enter"===b.code&&b.keyCode===KEYCODE_ENTER)&&(b.preventDefault(),closeArtworkModal())};h=a.querySelectorAll(".close-artwork-modal");for(g=0;g<h.length;g++)h[g].addEventListener("click",l,!0),h[g].addEventListener("keydown",l,!0),h[g].addEventListener("touchstart",l,!0),h[g].addEventListener("focus",function(b){b.target.firstElementChild.setAttribute("fill","#ff4136")}),h[g].addEventListener("blur",function(b){b.target.firstElementChild.setAttribute("fill","black")});if(g=a.getElementById("artwork-modal-container"))g.addEventListener("keydown",
-function(b){"Enter"!==b.code&&b.keyCode!==KEYCODE_ENTER&&"Escape"!==b.code&&b.keyCode!==KEYCODE_ESCAPE||closeArtworkModal();"ArrowLeft"!==b.code&&b.keyCode!==KEYCODE_ARROWLEFT||cycleArtworkModalImage(PREV_IMAGE);"ArrowRight"!==b.code&&b.keyCode!==KEYCODE_ARROWRIGHT||cycleArtworkModalImage(NEXT_IMAGE)},!0),(l=g.querySelector("img"))&&l.addEventListener("click",function(b){cycleArtworkModalImage(NEXT_IMAGE)},!0),x(g,function(b){"left"===b?cycleArtworkModalImage(NEXT_IMAGE):"right"===b?cycleArtworkModalImage(PREV_IMAGE):
-("up"===b||"down"===b)&&closeArtworkModal()}),(new MutationObserver(function(b,e){b=$jscomp.makeIterator(b);for(e=b.next();!e.done;e=b.next())if(e=e.value,"attributes"===e.type&&(console.log("The "+e.attributeName+" attribute was modified."),console.log("The mutation.target node is: "+e.target),"src"===e.attributeName)){var f=e.target.parentElement.parentElement;.9<=e.target.height/e.target.width?(console.log("portrait"),f.classList.contains("w-50-l")&&(f.classList.remove("w-50-l"),f.classList.add("w-third-l"),
-f.previousElementSibling.classList.remove("w-25-l"),f.previousElementSibling.classList.add("w-third-l"),f.nextElementSibling.classList.remove("w-25-l"),f.nextElementSibling.classList.add("w-third-l"))):f.classList.contains("w-third-l")&&(f.classList.remove("w-third-l"),f.classList.add("w-50-l"),f.previousElementSibling.classList.remove("w-third-l"),f.previousElementSibling.classList.add("w-25-l"),f.nextElementSibling.classList.remove("w-third-l"),f.nextElementSibling.classList.add("w-25-l"))}})).observe(g,
-{attributes:!0,childList:!0,subtree:!0});(function(){var b=a.title.split(" ")[0].toLowerCase();if("paintings"!==b){var e=a.querySelector("nav a.pb1.bb.bw1");e&&(e.classList.remove("pb1"),e.classList.remove("bb"),e.classList.remove("bw1"));if(b=a.querySelector("nav a[href*="+b+"]"))b.classList.add("pb1"),b.classList.add("bb"),b.classList.add("bw1")}})();a.querySelector("label[for='contact-subscribe']")&&r.addEventListener("click",function(b){(b=b.target.querySelector("input"))&&b.click()},!0);var r=
-a.querySelector("input[name='contact-subscribe']");r&&r.addEventListener("focus",function(b){console.log(b.target);b.target.parentElement.style.color="#ff4136"})})})(document,window,domIsReady);
+"use strict"
+
+window.addEventListener('load', function () {
+
+  console.log("DOM ready...");
+  // Generate visible captions for images with alt text.
+  // Only do this for the Writing (i.e. blog) pages
+  function generateCaptions() {
+    // Get the current page title
+    let all = document.title.split("—");
+    if (all.length > 1) {
+      let title = all[1].trim().toLowerCase();
+      if (title === "writing") {
+        all = document.querySelectorAll("img[alt]:not(.dib)");
+        all = Object.keys(all).map((e)=>{return all[e];});
+        all.forEach((e)=>{
+          let p = document.createElement('p');
+          p.className = "f6 f5-ns measure typewriter";
+          p.innerText = e.alt;
+          e.parentNode.insertBefore(p, e.nextSibling);
+        });
+      }
+    }
+  }
+  generateCaptions();
+
+  // Fix the CSS styling for blog posts
+  function fixCSS() {
+    // Title heading
+    let e = document.getElementById("title");
+    if (e) { e.className = "f5 f4-m f3-l fw1 lh-solid v-top mt0"; }
+    // Date
+    e = document.querySelector("#title ~ p");
+    if (e) { e.className = "lh-solid"; }
+    // Bibliography heading
+    e = document.getElementById("bibliography");
+    if (e) { e.className = "f5 f4-m f3-l fw1 lh-copy v-top mt0"; }
+    // Bibliography paragraphs
+    let all = document.querySelectorAll("#bibliography ~ p");
+    for (var i=0; i<all.length; i++) {
+      all[i].className = "f6 f5-ns typewriter";
+    }
+    // Bibliography links in paragraphs
+    all = document.querySelectorAll("#bibliography ~ p > a");
+    for (var i=0; i<all.length; i++) {
+      all[i].className = "bb b--dashed bl-0 bt-0 br-0 black-90 hover-red link ma0 typewriter";
+    }
+    // Add hover/focus styling for images on 'Writing' and 'Painting' pages
+    all = document.querySelectorAll("a.writing,a.painting");
+    for (var i=0; i<all.length; i++) {
+      all[i].addEventListener('focus', (event) => {
+        let src = event.target.firstElementChild.src;
+        event.target.firstElementChild.src = src.replace(/white.jpg/g, "red.jpg");
+      });
+      all[i].addEventListener('blur', (event) => {
+        let src = event.target.firstElementChild.src;
+        event.target.firstElementChild.src = src.replace(/red.jpg/g, "white.jpg");
+      });
+      all[i].firstElementChild.addEventListener('mouseover', (event) => {
+        let src = event.target.src;
+        event.target.src = src.replace(/white.jpg/g, "red.jpg");
+      });
+      all[i].firstElementChild.addEventListener('mouseout', (event) => {
+        let src = event.target.src;
+        event.target.src = src.replace(/red.jpg/g, "white.jpg");
+      });
+    }
+  }
+  fixCSS();
+
+  // Underline the Writing nav link if we're on a blog post, and do
+  // the same for Painting nav link when we're on a painting page
+  function underlineCurrentPage() {
+    // Get the current page title
+    let all = document.title.split("—");
+    if (all.length > 1) {
+      let el = null;
+      let title = all[1].trim().toLowerCase();
+      if (title === "writing") {
+        el = document.querySelector(`nav a[href*=${title}]`);
+        if (el) {
+          el.classList.add("pb1");
+          el.classList.add("bb");
+          el.classList.add("bw1");
+        }
+      } else if (title === "paintings") {
+        el = document.querySelector(`nav a[href*=${title}]`);
+        if (el) {
+          el.classList.add("pb1");
+          el.classList.add("bb");
+          el.classList.add("bw1");
+        }
+      }
+    }
+  }
+  underlineCurrentPage();
+
+  // Cycle through the images on the landing page
+  /*
+  var images = ["DSC_0752_edit.jpg", "DSC_0766_edit.jpg"];
+  function changeImage() {
+    var img = document.querySelector("img");
+    var src = img.src.split("/");
+    src = src[src.length-1];
+    var idx = images.indexOf(src);
+    idx = (idx+1) % images.length;
+    img.src = `assets/img/${images[idx]}`;
+    setTimeout(changeImage, 3000);
+  }
+  changeImage();
+  */
+
+});
+
+// matomo
+var _paq = window._paq = window._paq || [];
+/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+  var u="https://matomo.gnchapman.com/";
+  _paq.push(['setTrackerUrl', u+'matomo.php']);
+  _paq.push(['setSiteId', '1']);
+  var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+  g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+})();

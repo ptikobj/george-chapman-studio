@@ -5,7 +5,7 @@ title: "Interview with Ollie Guyon — Writing — George Chapman"
 short_title: "Interview with Ollie Guyon"
 description: "Discussing Venetian painters, minimalism, and working with virulent pigments, Ollie Guyon shares some insights about his studio practice through a look at one of his painting, 'Britney'."
 image: /assets/img/interview-with-ollie-guyon-white.jpg
-permalink: /writing/interview-with-ollie-guyon
+permalink: /writing/interview-with-ollie-guyon.html
 ---
 # Interview with Ollie Guyon {#title}
 23 September 2020
