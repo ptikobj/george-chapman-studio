@@ -5,8 +5,10 @@ title: "Latent Horizon — Writing — George Chapman"
 description: "Natasha Norman reflecting on the city through nostalgia, dreams and painting. Originally published in 2010 as an essay for the I Can Never Sleep on Sundays exhibition catalogue."
 image: /assets/img/latent-horizon-white.jpg
 permalink: /writing/latent-horizon.html
-
 ---
+# Latent Horizon {#title}
+November 2010
+
 > "The city does not consist of this, but of relationships between the measurements of its space and the events of its past: the height of a lamppost and the distance from the ground of a hanged usurper's swaying feet; the line strung from the lamppost to the railing opposite and the festoons that decorate the course of the queen's nuptial procession; the height of that railing and the leap of the adulterer who climbed over it at dawn; the tilt of the guttering and a cat's progress along it as he slips into the same window..."  
 > — Italo Calvino, *Invisible Cities*
 
