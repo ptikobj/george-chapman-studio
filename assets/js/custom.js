@@ -72,18 +72,11 @@ window.addEventListener('load', function () {
   // the same for Painting nav link when we're on a painting page
   function underlineCurrentPage() {
     // Get the current page title
+    let el = null;
     let all = document.title.split("—");
     if (all.length > 1) {
-      let el = null;
       let title = all[1].trim().toLowerCase();
-      if (title === "writing") {
-        el = document.querySelector(`nav a[href*=${title}]`);
-        if (el) {
-          el.classList.add("pb1");
-          el.classList.add("bb");
-          el.classList.add("bw1");
-        }
-      } else if (title === "paintings") {
+      if (title === "writing" || title === "paintings" || title === "exhibitions") {
         el = document.querySelector(`nav a[href*=${title}]`);
         if (el) {
           el.classList.add("pb1");
@@ -91,24 +84,16 @@ window.addEventListener('load', function () {
           el.classList.add("bw1");
         }
       }
+    } else {
+      el = document.querySelector(`nav a[href*='index.html']`);
+      if (el) {
+        el.classList.add("pb1");
+        el.classList.add("bb");
+        el.classList.add("bw1");
+      }
     }
   }
   underlineCurrentPage();
-
-  // Cycle through the images on the landing page
-  /*
-  var images = ["DSC_0752_edit.jpg", "DSC_0766_edit.jpg"];
-  function changeImage() {
-    var img = document.querySelector("img");
-    var src = img.src.split("/");
-    src = src[src.length-1];
-    var idx = images.indexOf(src);
-    idx = (idx+1) % images.length;
-    img.src = `assets/img/${images[idx]}`;
-    setTimeout(changeImage, 3000);
-  }
-  changeImage();
-  */
 
 });
 

@@ -1,5 +1,5 @@
 ---
 layout: paintings
-title: New Work — Paintings — George Chapman
+title: New Work — Exhibitions — George Chapman
 category: New Work
 ---

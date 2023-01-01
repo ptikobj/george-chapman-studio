@@ -1,4 +1,4 @@
 ---
-layout: series
+layout: paintings
 title: Paintings — George Chapman
 ---

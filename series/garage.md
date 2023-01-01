@@ -1,5 +1,5 @@
 ---
 layout: paintings
-title: GARAGE — Paintings — George Chapman
+title: GARAGE — Exhibitions — George Chapman
 category: GARAGE
 ---

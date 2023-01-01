@@ -1,5 +1,5 @@
 ---
 layout: paintings
-title: I Can Never Sleep on Sundays — Paintings — George Chapman
+title: I Can Never Sleep on Sundays — Exhibitions — George Chapman
 category: I Can Never Sleep on Sundays
 ---

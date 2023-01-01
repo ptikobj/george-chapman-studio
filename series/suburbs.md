@@ -1,5 +1,5 @@
 ---
 layout: paintings
-title: Suburbs — Paintings — George Chapman
+title: Suburbs — Exhibitions — George Chapman
 category: Suburbs
 ---
