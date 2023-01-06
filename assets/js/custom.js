@@ -97,12 +97,11 @@ window.addEventListener('load', function () {
 
 });
 
-// matomo
 var _paq = window._paq = window._paq || [];
 /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
 _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
-_paq.push(["setCookieDomain", "*.gnchapman.com"]);
-_paq.push(["setDomains", ["*.gnchapman.com","*.georgechapman.studio"]]);
+_paq.push(["setCookieDomain", "*.georgechapman.studio"]);
+_paq.push(["setDomains", ["*.georgechapman.studio","*.gnchapman.com"]]);
 _paq.push(["enableCrossDomainLinking"]);
 _paq.push(['trackPageView']);
 _paq.push(['enableLinkTracking']);
