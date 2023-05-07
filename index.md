@@ -1,4 +1,4 @@
 ---
 layout: home
-title: George Chapman Studio
+title: George Chapman
 ---

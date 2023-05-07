@@ -1,20 +1,21 @@
-<nav class="dt dt--fixed v-mid mt2 w-100">
-  <div class="dtc tl w-75 w-50-ns">
-    {% for item in site.data.navigation %}
-      {% if item.name != "About" %}
-        <a href="{{ item.link }}" {% if page.url == item.link %}class="f5 f4-m f3-l black-90 hover-red link mr2 mr3-l sans-serif pb1 bb bw1"{% else %}class="f5 f4-m f3-l black-90 hover-red link mr2 mr3-l sans-serif"{% endif %}>
-          {{ item.name }}
-        </a>
-      {% endif %}
-    {% endfor %}
-  </div>
-  <div class="dtc tr w-25 w-50-ns">
-    {% for item in site.data.navigation %}
-      {% if item.name == "About" %}
-        <a href="{{ item.link }}" {% if page.url == item.link %}class="f5 f4-m f3-l black-90 hover-red link mr2 mr3-l sans-serif pb1 bb bw1"{% else %}class="f5 f4-m f3-l black-90 hover-red link mr2 mr3-l sans-serif"{% endif %}>
-          {{ item.name }}
-        </a>
-      {% endif %}
-    {% endfor %}
-  </div>
-</nav>
+<header>
+  <h1 class="f3 ttu tracked">{{ site.title }}</h1>
+  <nav class="dt dt--fixed v-mid mt2 w-100">
+    <div class="dtc tl w-100 w-70-ns">
+      {% for item in site.data.navigation %}
+        {% if item.justify == "left" %}
+          <a href="{{ item.link }}" {% if page.url == item.link %}class="f5 f4-ns black-90 hover-red link mr2 mr3-l pb1 bb bw1"{% else %}class="f5 f4-ns black-90 hover-red link mr2 mr3-l"{% endif %}>{{ item.name }}</a>
+        {% elsif item.justify == "right" %}
+          <a href="{{ item.link }}" {% if page.url == item.link %}class="dn-ns f5 f4-ns black-90 hover-red link mr2 mr3-l pb1 bb bw1"{% else %}class="dn-ns f5 f4-ns black-90 hover-red link mr2 mr3-l"{% endif %}>{{ item.name }}</a>
+        {% endif %}
+      {% endfor %}
+    </div>
+    <div class="dn dtc-ns tr w-30-ns">
+      {% for item in site.data.navigation %}
+        {% if item.justify == "right" %}
+          <a href="{{ item.link }}" {% if page.url == item.link %}class="f5 f4-ns black-90 hover-red link mr2 mr3-l pb1 bb bw1"{% else %}class="f5 f4-ns black-90 hover-red link mr2 mr3-l"{% endif %}>{{ item.name }}</a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </nav>
+</header>

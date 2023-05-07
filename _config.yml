@@ -15,7 +15,6 @@ collections:
 favicon: "favicon.ico"
 
 # Build settings
-# theme: minima
 sass:
     style: compressed
 
