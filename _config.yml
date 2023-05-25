@@ -1,11 +1,12 @@
 title: George Chapman
 email:
 description: >-
-  Website of artist George Chapman. View paintings and current
-  exhibitions, and sign up for news and updates.
+  Website of London-based artist George Chapman. View paintings and
+  current exhibitions, and sign up for news and updates.
 baseurl: ""
 url: "https://georgechapman.studio"
 instagram: gn.chapman
+ga_tag: G-SEL2XXVY0C
 newsletter_url: https://buttondown.email/georgechapman
 collections:
   paintings:

@@ -15,5 +15,8 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     {% feed_meta %}
     {% seo %}
+    {% if site.ga_tag %}
+      {% include analytics.html %}
+    {% endif %}
   </head>
   <body class="w-100 ph3 ph4-ns f5 f4-ns fw1 black-90 sans-serif bg-baby-powder">
