@@ -1,11 +1,9 @@
     <footer class="pv4">
       <div class="dt dt--fixed w-100 pt4">
         <div class="db dtc-ns v-mid w-100 w-90-ns w-50-l pb4">
-          {% unless page.title contains "About" %}
-            <div class="fl w-100 w-80-ns pb4 pb0-ns ma0">
-              {%-include newsletter-form.html-%}
-            </div>
-          {% endunless %}
+          <div class="fl w-100 w-80-ns pb4 pb0-ns ma0">
+            {%-include newsletter-form.html-%}
+          </div>
         </div>
         <div class="db dtc-ns tl tr-ns v-mid w-100 w-10-ns w-50-l">
           {%-include social-media-links.html-%}
