@@ -1,10 +1,19 @@
 ---
 layout: post
 author: George Chapman
-title: "Stillness is the Move: Material and transcendental space in Tess Jaray and Mark Rothko's paintings — Writing — George Chapman"
-short_title: "Stillness is the Move: Material and transcendental space in Tess Jaray and Mark Rothko's paintings"
-description: "A comparison of the Mark Rothko's chapel paintings and the recent exhibition 'From Outside' by UK abstract painter Tess Jaray."
-image: /assets/img/stillness-is-the-move-white.jpg
+title: >-
+  Stillness is the Move: Material and transcendental space in Tess Jaray
+  and Mark Rothko's paintings — Writing — George Chapman
+short_title: >-
+  Stillness is the Move: Material and transcendental space in Tess Jaray
+  and Mark Rothko's paintings
+description: >-
+  A comparison of the Mark Rothko's chapel paintings and the recent
+  exhibition 'From Outside' by UK abstract painter Tess Jaray.
+image: /assets/img/03.jpg
+image_alt:
+image_caption:
+date: 02/07/2019
 permalink: /writing/stillness-is-the-move.html
 ---
 # Stillness Is the Move: Material and transcendental space in Tess Jaray and Mark Rothko's paintings {#title}

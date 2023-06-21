@@ -1,11 +1,22 @@
 ---
 layout: post
 author: George Chapman
-title: "Cape Town, I Love You But You're Letting Me Down — Writing — George Chapman"
-short_title: "Cape Town, I Love You But You're Letting Me Down"
-description: "Thoughts on Situationist theory, ambient space, and abstract expressionism. Originally published in 2010 as an essay for the 'I Can Never Sleep on Sundays' exhibition catalogue."
-image: /assets/img/cape-town-i-love-you-but-youre-letting-me-down-white.jpg
-permalink: /writing/cape-town-i-love-you-but-youre-letting-me-down.html
+title: >-
+  Cape Town, I Love You But You're Letting Me Down — Writing — George
+  Chapman
+short_title: >-
+  Cape Town, I Love You But You're Letting Me Down
+description: >-
+  Thoughts on Situationist theory, ambient space, and abstract 
+  expressionism. Originally published in 2010 as an essay for the 'I Can
+  Never Sleep on Sundays' exhibition catalogue.
+image: >-
+  /assets/img/cape-town-i-love-you-but-youre-letting-me-down-white.jpg
+image_alt:
+image_caption:
+date: 15/11/2010
+permalink: >-
+  /writing/cape-town-i-love-you-but-youre-letting-me-down.html
 ---
 # Cape Town, I Love You But You're Letting Me Down {#title}
 15 November 2010

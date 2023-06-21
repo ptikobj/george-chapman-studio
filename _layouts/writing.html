@@ -1,10 +1,27 @@
 ---
 layout: default
 ---
-{% for post in site.posts %}
-  <div class="flex ctr-align fl w-100 w-50-m w-third-l pv3 pa4-ns tl tc-ns">
-    <a href="{{ post.url }}" title="{{ post.short_title }}" class="black-90 hover-red link writing">
-      <img src="{{ post.image }}" alt="{{ post.short_title }}" class="dib writing">
-    </a>
-  </div>
-{% endfor %}
+<section class="mw7 center">
+  {% for post in site.posts %}
+  <article class="pt2 pb4">
+    <div class="flex flex-column flex-row-ns">
+      <!--
+      <a href="{{ post.url }}" title="{{ post.short_title }}" class="black-90 hover-red link writing">
+      -->
+        <div class="w-100 w-60-ns pr3-ns order-2 order-1-ns">
+          <h1 class="f3 mt0 lh-title">{{ post.short_title }}</h1>
+          <time class="dn-ns f6 db black-90">{{ post.date | date: "%-d %B %Y" }}</time>
+          <p class="f5 f4-l lh-copy">{{ post.description }}</p>
+          <time class="dn db-ns f6 f5-l black-90">{{ post.date | date: "%-d %B %Y" }}</time>
+        </div>
+        <div class="pl3-ns order-1 order-2-ns mb4 mb0-ns w-100 w-40-ns">
+          <img src="{{ post.image }}" alt="{{ post.image_alt }}" class="db">
+          <p class="f5 f4-l lh-copy">{{ post.image_caption }}</p>
+        </div>
+      <!--
+      </a>
+      -->
+    </div>
+  </article>
+  {% endfor %}
+</section>

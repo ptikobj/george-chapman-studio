@@ -3,8 +3,15 @@ layout: post
 author: George Chapman
 title: "Look, Know: Alan Uglow — Writing — George Chapman"
 short_title: "Look, Know: Alan Uglow"
-description: "No amount of theorising alone can validate a work. Yet when analysing Uglow's paintings it's almost as if no amount of theorising can successfully deconstruct his work. As a painter he wanted his paintings to speak for themselves: no theory, no bullshit."
+description: >-
+  No amount of theorising alone can validate a work. Yet when analysing
+  Uglow's paintings it's almost as if no amount of theorising can
+  successfully deconstruct his work. As a painter he wanted his
+  paintings to speak for themselves: no theory, no bullshit.
 image: /assets/img/look-know-alan-uglow-white.jpg
+image_alt:
+image_caption:
+date: 19/05/2020
 permalink: /writing/look-know-alan-uglow.html
 ---
 # Look, Know: Alan Uglow {#title}

@@ -3,8 +3,12 @@ layout: post
 author: George Chapman
 title: "Fugitive Space: PADA Studios — Writing — George Chapman"
 short_title: "Fugitive Space: PADA Studios"
-description: "Looking back on my residency at PADA Studios in Barreiro, Portugal."
+description: >-
+  Looking back on my residency at PADA Studios in Barreiro, Portugal.
 image: /assets/img/fugitive-space-pada-studios-white.jpg
+image_alt:
+image_caption:
+date: 30/10/2019
 permalink: /writing/fugitive-space-pada-studios.html
 ---
 # Fugitive Space: PADA Studios {#title}
