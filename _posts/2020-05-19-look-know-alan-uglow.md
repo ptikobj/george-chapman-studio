@@ -8,7 +8,7 @@ description: >-
   Uglow's paintings it's almost as if no amount of theorising can
   successfully deconstruct his work. As a painter he wanted his
   paintings to speak for themselves: no theory, no bullshit.
-image: /assets/img/look-know-alan-uglow-white.jpg
+image: look-know-alan-uglow.jpg
 image_alt:
 image_caption:
 date: 19/05/2020

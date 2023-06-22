@@ -7,8 +7,7 @@ description: >-
   Discussing Venetian painters, minimalism and working with virulent
   pigments, Ollie Guyon shares some insights about his studio practice
   through a look at one of his painting, 'Britney'.
-#image: /assets/img/interview-with-ollie-guyon-white.jpg
-image: https://placehold.co/600x400
+image: interview-with-ollie-guyon.jpg
 image_alt:
 image_caption:
 date: 23/09/2020

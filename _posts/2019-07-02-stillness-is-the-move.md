@@ -10,7 +10,7 @@ short_title: >-
 description: >-
   A comparison of the Mark Rothko's chapel paintings and the recent
   exhibition 'From Outside' by UK abstract painter Tess Jaray.
-image: /assets/img/03.jpg
+image: stillness_is_the_move.jpg
 image_alt:
 image_caption:
 date: 02/07/2019

@@ -11,7 +11,7 @@ description: >-
   expressionism. Originally published in 2010 as an essay for the 'I Can
   Never Sleep on Sundays' exhibition catalogue.
 image: >-
-  /assets/img/cape-town-i-love-you-but-youre-letting-me-down-white.jpg
+  cape-town-i-love-you-but-youre-letting-me-down.jpg
 image_alt:
 image_caption:
 date: 15/11/2010

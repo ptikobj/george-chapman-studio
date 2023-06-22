@@ -7,7 +7,7 @@ description: >-
   Natasha Norman reflects on the city through nostalgia, dreams and
   George Chapman's paintings. Originally published in 2010 as an essay
   for the I Can Never Sleep on Sundays exhibition catalogue.
-image: /assets/img/latent-horizon-white.jpg
+image: latent-horizon.jpg
 image_alt:
 image_caption:
 date: 01/11/2010
