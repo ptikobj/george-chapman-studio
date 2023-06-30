@@ -7,7 +7,7 @@ description: >-
   Looking back on my residency at PADA Studios in Barreiro, Portugal.
 image: fugitive-space-pada-studios.jpg
 image_alt:
-image_caption:
+image_caption: "Image: &copy; PADA Studios"
 date: 30/10/2019
 permalink: /writing/fugitive-space-pada-studios.html
 ---

@@ -68,31 +68,4 @@ window.addEventListener('load', function () {
   }
   fixCSS();
 
-  // Underline the Writing nav link if we're on a blog post, and do
-  // the same for Painting nav link when we're on a painting page
-  function underlineCurrentPage() {
-    // Get the current page title
-    let el = null;
-    let all = document.title.split("—");
-    if (all.length > 1) {
-      let title = all[1].trim().toLowerCase();
-      if (title === "writing" || title === "paintings" || title === "exhibitions") {
-        el = document.querySelector(`nav a[href*=${title}]`);
-        if (el) {
-          el.classList.add("pb1");
-          el.classList.add("bb");
-          el.classList.add("bw1");
-        }
-      }
-    } else {
-      el = document.querySelector(`nav a[href*='index.html']`);
-      if (el) {
-        el.classList.add("pb1");
-        el.classList.add("bb");
-        el.classList.add("bw1");
-      }
-    }
-  }
-  underlineCurrentPage();
-
 });

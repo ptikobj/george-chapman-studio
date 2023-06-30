@@ -10,7 +10,7 @@ description: >-
   paintings to speak for themselves: no theory, no bullshit.
 image: look-know-alan-uglow.jpg
 image_alt:
-image_caption:
+image_caption: "Image: &copy; Tim Ayres"
 date: 19/05/2020
 permalink: /writing/look-know-alan-uglow.html
 ---

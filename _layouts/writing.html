@@ -6,15 +6,15 @@ layout: default
   <article class="pt2 pb4">
     <a href="{{ post.url }}" title="{{ post.short_title }}" class="black-90 hover-red link writing">
       <div class="flex flex-column flex-row-ns">
-        <div class="w-100 w-60-ns pr3-ns order-2 order-1-ns">
+        <div class="w-100 w-70-ns pr3-ns order-2 order-1-ns">
           <h1 class="f3 mt0 lh-title">{{ post.short_title }}</h1>
           <time class="dn-ns db f6">{{ post.date | date: "%-d %B %Y" }}</time>
           <p class="f5 f4-l lh-copy">{{ post.description }}</p>
           <time class="dn db-ns f5">{{ post.date | date: "%-d %B %Y" }}</time>
         </div>
-        <div class="pl3-ns order-1 order-2-ns mb4 mb0-ns w-100 w-40-ns">
+        <div class="pl3-ns order-1 order-2-ns mb4 mb0-ns w-100 w-30-ns">
           <img src="{{ site.baseurl }}/assets/img/{{ post.image }}" alt="{{ post.image_alt }}" class="db">
-          <p class="f5 f4-l lh-copy">{{ post.image_caption }}</p>
+          <p class="f6 f5-ns lh-copy measure typewriter">{{ post.image_caption }}</p>
         </div>
       </div>
     </a>

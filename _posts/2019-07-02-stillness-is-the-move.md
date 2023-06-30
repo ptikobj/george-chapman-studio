@@ -12,7 +12,7 @@ description: >-
   exhibition 'From Outside' by UK abstract painter Tess Jaray.
 image: stillness_is_the_move.jpg
 image_alt:
-image_caption:
+image_caption: "Image: &copy; Tess Jaray, courtesy of Karsten Schubert, London"
 date: 02/07/2019
 permalink: /writing/stillness-is-the-move.html
 ---
