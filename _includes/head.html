@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    {% if page.title %}
+    <title>{{ page.title }}</title>
+    {% else %}
+    <title>{{ site.title }}</title>
+    {% endif %}
+    </title>
+    <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}">
+    <link rel="stylesheet" href="/assets/css/main.css" crossorigin="anonymous">
+    <script type="text/javascript" src="/assets/js/custom.min.js"></script>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    {% feed_meta %}
+    {% seo %}
+    {% if site.ga_tag %}
+      {% include analytics.html %}
+    {% endif %}
+  </head>
+  <body class="w-100 ph3 ph4-ns f5 f4-ns fw1 black-90 sans-serif bg-baby-powder">
