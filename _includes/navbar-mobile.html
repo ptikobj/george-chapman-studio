@@ -1,0 +1,7 @@
+<nav class="dtc dn-ns dt--fixed v-mid mt2 w-100">
+  <div class="flex flex-column tl w-100 w-70-ns">
+    {% for item in site.data.navigation %}
+      <a href="{{ item.link }}" {% if page.url == item.link %}class="f5 black-90 hover-red link mr2 pb1 bb bw1 mb2"{% else %}class="f5 black-90 hover-red link mr2 mb2"{% endif %}>{{ item.name }}</a>
+    {% endfor %}
+  </div>
+</nav>

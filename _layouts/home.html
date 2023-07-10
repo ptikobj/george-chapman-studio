@@ -1,24 +1,31 @@
 ---
 layout: default
 ---
-<section class="mw6 mw9-ns center">
+
+<section class="mw6 mw9-ns center pt4">
   {% assign item = site.data.exhibition-data | first %}
   <article>
-    <!--<a class="link black-90 hover-red" href="#">-->
-      <div class="fn fl-ns w-50-ns pr4-ns">
-        <h1 class="f2 lh-title fw9 mb3 mt0 pt3 bt bw2">
-          {{ item.title }}
-        </h1>
-        <h2 class="f3 lh-title">
-          {{ item.location }}
-        </h2>
-        <time class="f6 ttu tracked">{{ item.date }}</time>
-        {{ item.blurb }}
-      </div>
-      <div class="fn fl-ns w-50-ns">
-        <img src="{{ site.baseurl }}/assets/img/{{ item.image }}" alt="{{ item.image_caption }}" class="dib">
-        <p class="f7 f6-m f5-l typewriter tl">{{ item.image_caption }}</p>
-      </div>
-    <!--</a>-->
+    <div class="dib dn-ns fn w-50-ns">
+      <img src="{{ site.baseurl }}/assets/img/{{ item.image }}" alt="{{ item.image_caption }}" class="dib">
+      <p class="f7 f6-m f5-l typewriter tl">{{ item.image_caption }}</p>
+    </div>
+    <div class="fn fl-ns w-50-ns pr4-ns">
+      <h1 class="f2 lh-title fw9 mb3 mt0 pt3 bt-ns bw2">
+        {{ item.title }}
+      </h1>
+      <h2 class="f3 lh-title">
+        {{ item.location }}
+      </h2>
+      <time class="f6 ttu tracked">{{ item.date }}</time>
+      <span class="dib pb4">{{ item.blurb }}</span>
+      <span class="dib">
+        <a href="{{ item.path | relative_url }}" class="dib sans-serif b ph3 pv2 input-reset hover-red ba b--black bg-baby-powder pointer f6 link black-90" aria-label="Read more about {{ item.title }}">Read more</a>
+      </span>
+    </div>
+    <div class="dn dib-ns fl-ns w-50-ns">
+      <img src="{{ site.baseurl }}/assets/img/{{ item.image }}" alt="{{ item.image_caption }}" class="dib">
+      <p class="f7 f6-m f5-l typewriter tl">{{ item.image_caption }}</p>
+    </div>
+    <p class="lh-copy dib dn-ns">—</p>
   </article>
 </section>
