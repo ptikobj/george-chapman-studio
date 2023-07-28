@@ -7,11 +7,11 @@ description: >-
   A review of Mohammed Sami's recent solo exhibition <em>The Point
   0</em> at Camden Art Centre, where Sami's depictions of empty spaces
   and haunted memories create a strong sense of the uncanny.
-image: mohammed-sami-the-rub-of-time.jpg
+image: mohammed-sami-the-banality-of-time.jpg
 image_alt:
 image_caption:
 date: 28/07/2023
-permalink: /writing/mohammed-sami-the-rub-of-time.html
+permalink: /writing/mohammed-sami-the-banality-of-time.html
 ---
 # Mohammed Sami: The Banality of Time {#title}
 28 July 2023
