@@ -52,12 +52,12 @@ semi-open door pouring into view and partly luminating the portrait of a
 military figure. The title suggests a room for meditating, a place to
 achieve mental and emotional clarity. But the atmosphere suggests
 otherwise: a scrunched carpet is trapped under the semi-open doorway.
-The blade of light escaping into the room creates a sense of drama. The
+The blade of light escaping into the room builds a sense of drama. The
 bloody ochre of the room points to something corporeal. And the military
 figure whose face is obscured strongly resembles official portraits of
 Saddam Hussein, which were mandatory in all homes in Iraq during his
 reign of terror. Here, Sami creates just enough visual disturbance to
-create a sense of dissonance between what we see and what we interpret
+invoke a sense of dissonance between what we see and what we interpret
 from the image and title. There is something both banal and sinister
 happening at the same time.
 
