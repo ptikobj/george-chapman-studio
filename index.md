@@ -1,4 +1,4 @@
 ---
 layout: home
-title: George Chapman
+title: Artist George Chapman's Paintings and Writing
 ---

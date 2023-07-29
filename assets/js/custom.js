@@ -26,27 +26,27 @@ window.addEventListener('load', function () {
 
   // Fix the CSS styling for blog posts
   function fixCSS() {
-    // Title heading
-    let e = document.getElementById("title");
-    if (e) { e.className = "f5 f4-m f3-l fw1 lh-solid v-top mt0"; }
-    // Date
-    e = document.querySelector("#title ~ p");
-    if (e) { e.className = "lh-solid"; }
-    // Bibliography heading
-    e = document.getElementById("bibliography");
-    if (e) { e.className = "f5 f4-m f3-l fw1 lh-copy v-top mt0"; }
-    // Bibliography paragraphs
-    let all = document.querySelectorAll("#bibliography ~ p");
-    for (var i=0; i<all.length; i++) {
-      all[i].className = "f6 f5-ns typewriter";
-    }
-    // Bibliography links in paragraphs
-    all = document.querySelectorAll("#bibliography ~ p > a");
-    for (var i=0; i<all.length; i++) {
-      all[i].className = "bb b--dashed bl-0 bt-0 br-0 black-90 hover-red link ma0 typewriter";
-    }
+    // // Title heading
+    // let e = document.getElementById("title");
+    // if (e) { e.className = "f5 f4-m f3-l fw1 lh-solid v-top mt0"; }
+    // // Date
+    // e = document.querySelector("#title ~ p");
+    // if (e) { e.className = "lh-solid"; }
+    // // Bibliography heading
+    // e = document.getElementById("bibliography");
+    // if (e) { e.className = "f5 f4-m f3-l fw1 lh-copy v-top mt0"; }
+    // // Bibliography paragraphs
+    // let all = document.querySelectorAll("#bibliography ~ p");
+    // for (var i=0; i<all.length; i++) {
+    //   all[i].className = "f6 f5-ns typewriter";
+    // }
+    // // Bibliography links in paragraphs
+    // all = document.querySelectorAll("#bibliography ~ p > a");
+    // for (var i=0; i<all.length; i++) {
+    //   all[i].className = "bb b--dashed bl-0 bt-0 br-0 black-90 hover-red link ma0 typewriter";
+    // }
     // Add hover/focus styling for images on 'Writing' and 'Painting' pages
-    all = document.querySelectorAll("a.writing,a.painting");
+    let all = document.querySelectorAll("a.writing,a.painting");
     for (var i=0; i<all.length; i++) {
       all[i].addEventListener('focus', (event) => {
         let src = event.target.firstElementChild.src;
@@ -67,5 +67,4 @@ window.addEventListener('load', function () {
     }
   }
   fixCSS();
-
 });

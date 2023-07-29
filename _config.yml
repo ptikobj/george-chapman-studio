@@ -1,8 +1,8 @@
 title: George Chapman
-email:
 description: >-
-  Website of London-based artist George Chapman. View paintings and
-  current exhibitions, and sign up for news and updates.
+  South African artist George Chapman's paintings and essays. View
+  artworks, read about current and past exhibitions, and subscribe for
+  news and updates.
 baseurl: ""
 url: "https://georgechapman.studio"
 instagram: gn.chapman
@@ -10,6 +10,8 @@ ga_tag: G-SEL2XXVY0C
 newsletter_url: https://buttondown.email/georgechapman
 collections:
   paintings:
+    output: true
+  exhibitions:
     output: true
   authors:
 
@@ -29,9 +31,9 @@ compress_html:
     envs: []
 
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
-  - jekyll-seo-tag
+#  - jekyll-feed
+#  - jekyll-seo-tag
 
 exclude:
   - .jekyll-cache/

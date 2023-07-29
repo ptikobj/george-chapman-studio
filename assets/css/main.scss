@@ -34,3 +34,98 @@
 img {
   max-height: 100%;
 }
+
+// if (title === "writing") {
+//   all = document.querySelectorAll("img[alt]:not(.dib)");
+//   all = Object.keys(all).map((e)=>{return all[e];});
+//   all.forEach((e)=>{
+//     let p = document.createElement('p');
+//     p.className = "f6 f5-ns measure typewriter";
+//     p.innerText = e.alt;
+//     e.parentNode.insertBefore(p, e.nextSibling);
+//   });
+// }
+
+// Custom styles for blog/post pages to avoid using JavaScript
+
+@media screen and (min-width: 30em) {
+  .blogpost h1,
+  .blogpost h2 {
+    // .f5
+    font-size: 1rem;
+    // .fw1
+    font-weight: 100;
+    // .lh-solid
+    line-height: 1;
+    // .v-top
+    vertical-align:top;
+    // .mt0
+    margin-top:var(--spacing-none);
+  }
+  .blogpost h1 + p {
+    // .lh-solid
+    line-height: 1;
+  }
+  .blogpost h2 ~ p {
+    // .f6
+    font-size: .875rem;
+    // .typewriter
+    font-family: 'Courier New', 'Courier', 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+  }
+  .blogpost h2 ~ p > a {
+    // .bb
+    border-bottom: 1px solid;
+    // .b--dashed
+    border-style: dashed;
+    // .bl-0
+    border-left-width: 0;
+    // .bt-0
+    border-top-width: 0;
+    // .br-0
+    border-right-width: 0;
+    // .black-90
+    color: var(--black-90);
+    // .link
+    text-decoration: none;
+    transition: color .15s ease-in;
+    // .ma0
+    margin: var(--spacing-none);
+    // .typewriter
+    font-family: 'Courier New', 'Courier', 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+  }
+  .blogpost h2 ~ p > a:hover,
+  .blogpost h2 ~ p > a:focus {
+    // .hover-red
+    color: var(--red);
+    transition: color .15s ease-in;
+  }
+  .blogpost h2 ~ p > a:active,
+  .blogpost h2 ~ p > a:visited {
+    // .link
+    transition: color .15s ease-in;
+  }
+}
+
+@media screen and (min-width: 30em) and (max-width: 60em) {
+  .blogpost h1,
+  .blogpost h2 {
+    // .f4-m
+    font-size: 1.25rem;
+  }
+  .blogpost h2 ~ p {
+    // .f5-ns
+    font-size: 1rem;
+  }
+}
+
+@media screen and (min-width: 60em) {
+  .blogpost h1,
+  .blogpost h2 {
+    // .f3-l
+    font-size:1.5rem;
+  }
+  .blogpost h2 ~ p {
+    // .f5-ns
+    font-size: 1rem;
+  }
+}

@@ -1,20 +1,19 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     {% if page.title %}
     <title>{{ page.title }}</title>
     {% else %}
     <title>{{ site.title }}</title>
     {% endif %}
-    </title>
-    <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}">
-    <link rel="stylesheet" href="/assets/css/main.css" crossorigin="anonymous">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}" />
+    <link rel="stylesheet" href="/assets/css/main.css" crossorigin="anonymous" />
     <script type="text/javascript" src="/assets/js/custom.min.js"></script>
-    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    {% feed_meta %}
-    {% seo %}
+    <meta name="description" content="{{ site.description }}">
+    <meta name="robots" content="index, nofollow">
     {% if site.ga_tag %}
       {% include analytics.html %}
     {% endif %}

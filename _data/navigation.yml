@@ -1,18 +1,18 @@
 - name: Home
-  link: /index.html
+  url: /index.html
   justify: left
 - name: Paintings
-  link: /paintings.html
+  url: /paintings.html
   justify: left
 - name: Writing
-  link: /writing.html
+  url: /writing.html
   justify: left
 - name: Exhibitions
-  link: /exhibitions.html
+  url: /exhibitions.html
   justify: left
 - name: About
-  link: /about.html
+  url: /about.html
   justify: right
 - name: Contact
-  link: /contact.html
+  url: /contact.html
   justify: right

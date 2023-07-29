@@ -1,17 +1,39 @@
+{% assign strPage = page.url | remove: ".html" | split: "/" | slice: 1 %}
 <nav class="dn dt-ns dt--fixed v-mid mt2 w-100">
   <div class="dtc tl w-100 w-70-ns">
     {% for item in site.data.navigation %}
+      {% assign strLink = item.url | remove: ".html" | split: "/" | slice: 1 %}
       {% if item.justify == "left" %}
-        <a href="{{ item.link }}" {% if page.url == item.link %}class="f5 f4-ns black-90 hover-red link mr2 mr3-l pb1 bb bw1"{% else %}class="f5 f4-ns black-90 hover-red link mr2 mr3-l"{% endif %}>{{ item.name }}</a>
+        <a
+          href="{{ item.url }}"
+          {% if page.url == "/" and item.name == "Home" %}
+            class="f5 f4-ns black-90 hover-red link mr2 mr3-l pb1 bb bw1"
+            aria-current="page"
+          {% elsif strPage == strLink %}
+            class="f5 f4-ns black-90 hover-red link mr2 mr3-l pb1 bb bw1"
+            aria-current="page"
+          {% else %}
+            class="f5 f4-ns black-90 hover-red link mr2 mr3-l"
+          {% endif %}
+          >{{ item.name }}</a>
       {% elsif item.justify == "right" %}
-        <a href="{{ item.link }}" {% if page.url == item.link %}class="dn-ns f5 f4-ns black-90 hover-red link mr2 mr3-l pb1 bb bw1"{% else %}class="dn-ns f5 f4-ns black-90 hover-red link mr2 mr3-l"{% endif %}>{{ item.name }}</a>
+        <a href="{{ item.url }}" {% if page.url == item.url %}class="dn-ns f5 f4-ns black-90 hover-red link mr2 mr3-l pb1 bb bw1"{% else %}class="dn-ns f5 f4-ns black-90 hover-red link mr2 mr3-l"{% endif %}>{{ item.name }}</a>
       {% endif %}
     {% endfor %}
   </div>
   <div class="dn dtc-ns tr w-30-ns">
     {% for item in site.data.navigation %}
+      {% assign strLink = item.url | remove: ".html" | split: "/" | slice: 1 %}
       {% if item.justify == "right" %}
-        <a href="{{ item.link }}" {% if page.url == item.link %}class="f5 f4-ns black-90 hover-red link mr2 mr3-l pb1 bb bw1"{% else %}class="f5 f4-ns black-90 hover-red link mr2 mr3-l"{% endif %}>{{ item.name }}</a>
+        <a
+          href="{{ item.url }}" 
+          {% if strPage == strLink %}
+            class="f5 f4-ns black-90 hover-red link mr2 mr3-l pb1 bb bw1"
+            aria-current="page"
+          {% else %}
+            class="f5 f4-ns black-90 hover-red link mr2 mr3-l"
+          {% endif %}
+          >{{ item.name }}</a>
       {% endif %}
     {% endfor %}
   </div>
