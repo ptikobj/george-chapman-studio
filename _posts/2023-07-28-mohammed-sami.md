@@ -99,8 +99,7 @@ lighting of the refugee camp reminds me of Hopper's painting _Gas_
 of calm and unease while depicting the familiar scene of a petrol
 station at night. (While Hopper is often thought of as the painter of
 loneliness, his paintings actually depict something more like the
-uncanniness of lonely spaces.) Incidently, Sami mentioned [in an
-interview with The
+uncanniness of lonely spaces.) Sami mentioned [in an interview with The
 Guardian](https://www.theguardian.com/artanddesign/2022/mar/21/mohammed-sami-interview-iraqi-exile-painter-bullets-saddam-hussein)
 that his memories of his time spent as a refugee in Sweden are among his
 favourite, and that he returns to the country every month.
