@@ -5,11 +5,23 @@ title: Nest of Salt — Exhibitions — George Chapman
 short_title: Nest of Salt
 category: Nest of Salt
 description:
-image: 
-image_alt:
-image_caption:
 date: 19/01/2023
 permalink: /exhibitions/nest-of-salt.html
+location: AMP Gallery, London
+exhibition_dates: 19 - 22 January 2023
+image: 1000px-nest_of_salt.jpg
+image_alt:
+image_caption: >-
+  Installation view of 'Nest of Salt' group exhibition, AMP Gallery,
+  Peckham, London. Photo: Jérôme Favre
+blurb: >-
+  Transformation lies at the heart of artistic practice. Art is related
+  to artifice, in part meaning workmanship, the creation of something
+  using craft and skill; in part meaning skill in cunning and trickery -
+  the ability to create an impression or illusion of something by the
+  process of transformation. Art is linked to alchemy, the medieval form
+  of chemistry that dealt with the transformation of base materials into
+  gold.
 ---
 
 # Nest of Salt {#title}

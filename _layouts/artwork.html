@@ -7,8 +7,8 @@ layout: default
     <div class="lh-copy measure-ns measure-wide-l mt0 mt1-l">
       {% assign artworks = site.data.artworks | where:"title", page.artwork_title %}
       {% for item in artworks %}
-      <a href="{{ site.baseurl }}/paintings/{{ item.title | slugify }}.html" title="{{ item.title }}" class="black-90 hover-red link painting">
-        <img src="{{ site.baseurl }}/assets/img/{{ item.image }}" alt="{{ item.title }}" class="dib painting w-100">
+      <a href="{{ site.url }}/paintings/{{ item.title | slugify }}.html" title="{{ item.title }}" class="black-90 hover-red link painting">
+        <img src="{{ site.url }}/assets/img/{{ item.image }}" alt="{{ item.title }}" class="dib painting w-100">
       </a>
       <p class="tl f6 f5-ns measure typewriter">{{ item.title }}</p>
       <p class="tl f6 f5-ns measure typewriter">{{ item.year }}</p>

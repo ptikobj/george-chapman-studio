@@ -5,8 +5,8 @@ layout: default
 {% for item in exhibitions %}
   <!-- image link -->
   <div class="flex ctr-align fl w-100 w-50-m w-third-l pv3 pa4-ns tl tc-ns">
-    <a href="{{ site.baseurl }}/exhibitions/{{ item.title | slugify }}.html" title="{{ item.title }}" class="black-90 hover-red link painting">
-      <img src="{{ site.baseurl }}/assets/img/{{ item.image }}" alt="{{ item.title }}" class="dib painting">
+    <a href="{{ site.url }}/exhibitions/{{ item.title | slugify }}.html" title="{{ item.title }}" class="black-90 hover-red link painting">
+      <img src="{{ site.url }}/assets/img/{{ item.image }}" alt="{{ item.title }}" class="dib painting">
     </a>
   </div>
   <!-- /image link -->

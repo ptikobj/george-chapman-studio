@@ -9,7 +9,7 @@
     {% else %}
     <title>{{ site.title }}</title>
     {% endif %}
-    <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}" />
+    <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | absolute_url }}" />
     <link rel="stylesheet" href="/assets/css/main.css" crossorigin="anonymous" />
     <script type="text/javascript" src="/assets/js/custom.min.js"></script>
     <meta name="description" content="{{ site.description }}">

@@ -9,8 +9,8 @@ layout: default
   {% endif %}
   {% for item in artworks %}
     <div class="fl w-100 w-50-m w-third-l pv3 pa4-ns tl tc-ns">
-      <a href="{{ site.baseurl }}/paintings/{{ item.title | slugify }}.html" title="{{ item.title }}" class="dib black-90 hover-red link painting">
-        <img src="{{ site.baseurl }}/assets/img/{{ item.image }}" alt="{{ item.title }}">
+      <a href="{{ site.url }}/paintings/{{ item.title | slugify }}.html" title="{{ item.title }}" class="dib black-90 hover-red link painting">
+        <img src="{{ site.url }}/assets/img/{{ item.image }}" alt="{{ item.title }}">
       </a>
       <p class="tl f6 f5-ns measure typewriter">{{ item.title }}</p>
       <p class="tl f6 f5-ns measure typewriter">{{ item.year }}</p>

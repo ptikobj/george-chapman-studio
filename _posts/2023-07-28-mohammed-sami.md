@@ -139,18 +139,18 @@ from being a symbol of truth and light, Sami uses it to continue the
 theme of ambiguity and dual narrative in his work.
 
 The final image in the exhibition, hung just outside the main rooms so
-you almost miss its modest presence, is _Weeping Wall_. A close-up area
-of faded patterned wallpaper, bordered by shadows like a vignette,
-appears ordinary enough except for the black spot where a picture nail
-materialises like a bullet hole. It then becomes clear that the blanched
-area of wallpaper is formerly where the mandatory portrait of Saddam
-would've been hung. Its absence creates a box of light that
+you almost miss its modest presence, is _Weeping Walls III_ (2022). A
+close-up area of faded patterned wallpaper, bordered by shadows like a
+vignette, appears ordinary enough except for the black spot where a
+picture nail materialises like a bullet hole. It then becomes clear that
+the blanched area of wallpaper is formerly where the mandatory portrait
+of Saddam would've been hung. Its absence creates a box of light that
 disintegrates into the shadowed edges of the painting.
 
 ![Mohammed Sami, 'Weeping Walls III' (2022). Mixed media on linen. 75.5 x 65 cm. Photo by Rob Harris. Courtesy of the artist and Modern Art, London](/assets/img/mohammed-sami-5.jpg)
 
 There's a saying that Stepanova quotes from her great-grandfather in her
-memoirs: 'es redt zich azoi', literally, 'it is indeed so', but the
+memoirs: _'es redt zich azoi'_, literally, 'it is indeed so', but the
 meaning is the exact opposite: 'it is supposed to be so, but I don't
 believe a word of it'. Sami's paintings present us with a version of
 reality that is tinged with doubt — not at the actual events but at the
