@@ -18,6 +18,7 @@ date: 15/11/2010
 permalink: >-
   /writing/cape-town-i-love-you-but-youre-letting-me-down.html
 ---
+
 # Cape Town, I Love You But You're Letting Me Down {#title}
 15 November 2010
 
@@ -45,7 +46,9 @@ becomes a progenitor, a desolate basketball court hints at some kind of
 sadness and the off-coloured wall of a supermarket forms an oneiric
 horizon.
 
-![George Chapman, Untitled II (I Can Never Sleep on Sundays), 2010, oil on panel](/assets/img/GC_UntitledIIICanNeverSleepOnSundays_2010.jpg)
+![George Chapman, 'Untitled II (I Can Never Sleep on Sundays)' (2010)](/assets/img/GC_UntitledIIICanNeverSleepOnSundays_2010.jpg)
+
+George Chapman, 'Untitled II (I Can Never Sleep on Sundays)' (2010)
 
 The theoretical springboard for most of my practice originated from
 movements, works and theorists all at their apex during the middle of
@@ -87,7 +90,9 @@ antagonisms of their post-war reality Debord argued that "one must seek
 a higher organisation of the means of action in this period of our
 culture." (Debord, 1997: 85).
 
-![George Chapman, Untitled XII (I Can Never Sleep on Sundays), 2010, oil on panel](/assets/img/GC_UntitledXIIICanNeverSleepOnSundays_2010.jpg)
+![George Chapman, 'Untitled XII (I Can Never Sleep on Sundays)' (2010)](/assets/img/GC_UntitledXIIICanNeverSleepOnSundays_2010.jpg)
+
+George Chapman, 'Untitled XII (I Can Never Sleep on Sundays)' (2010)
 
 However, the Situationists did not look to art as the medium to achieve
 their "higher organisation". Instead the medium would be their ability
@@ -174,9 +179,9 @@ practice once I had realised that the idea of ambiguity, of
 representation versus non-representation, was a useful way of
 communicating the effects of my locations.
 
-Untitled XV (I Can Never Sleep on Sundays)
+![George Chapman, 'Untitled XV (I Can Never Sleep on Sundays)' (2010)](/assets/img/GC_UntitledXVICanNeverSleepOnSundays_2010.jpg)
 
-![George Chapman, Untitled XV (I Can Never Sleep on Sundays), 2010, oil on panel](/assets/img/GC_UntitledXVICanNeverSleepOnSundays_2010.jpg)
+George Chapman, 'Untitled XV (I Can Never Sleep on Sundays)' (2010)
 
 Abstraction has often been attributed the ability to extract highly
 personalised reactions from its audiences: Robert Rosenblum recounted a

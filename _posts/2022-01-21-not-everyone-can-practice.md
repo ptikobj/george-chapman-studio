@@ -12,6 +12,7 @@ image_caption:
 date: 21/01/2022
 permalink: /writing/not-everyone-can-practice.html
 ---
+
 # Not everyone can practice {#title}
 21 January 2022
 
@@ -60,7 +61,13 @@ meritocratic society values productivity: we must always be seen as
 hard-working, even when it is largely performative, even when it takes
 precious time away from being creative.
 
-![Former ACME Studios building, South London. The building was sold and subsequently closed to artists at the end of December 2021.](/assets/img/6o5E2uC.jpg)
+![Former ACME Studios building, South London. The building was sold and
+subsequently closed to artists at the end of December
+2021](/assets/img/6o5E2uC.jpg)
+
+Former ACME Studios building, South London. The building was sold and
+subsequently closed to artists at the end of December
+2021
 
 It's no surprise then that artists, and young graduates in particular,
 are finding it harder than ever to practice their art in this
@@ -127,3 +134,5 @@ Ollie Guyon, and Henry Tyrrell. It runs from Wednesday 2 March until
 Sunday 6 March (12-6pm) with a private view on Thursday 3 March (6-9pm).
 
 !['Badlands' exhibition poster](/assets/img/jgMtPPS.jpg)
+
+Badlands' exhibition poster

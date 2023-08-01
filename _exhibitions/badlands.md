@@ -1,5 +1,5 @@
 ---
-layout: paintings
+layout: exhibition
 title: Badlands — Exhibitions — George Chapman
 category: Badlands
 location: no format Gallery, London

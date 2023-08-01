@@ -13,10 +13,17 @@ image_caption:
 date: 23/09/2020
 permalink: /writing/interview-with-ollie-guyon.html
 ---
+
 # Interview with Ollie Guyon {#title}
 23 September 2020
 
-![Oliver Guyon, 'Britney', 2018. Mineral pigment, casein, Strasbourg turpentine, gesso and linen on panel. Photo by George Chapman.](/assets/img/interview_with_ollie_guyon-1.jpg)
+![Oliver Guyon, 'Britney', 2018. Mineral pigment, casein, Strasbourg
+turpentine, gesso and linen on panel. Photo by George
+Chapman](/assets/img/interview_with_ollie_guyon-1.jpg)
+
+Oliver Guyon, 'Britney', 2018. Mineral pigment, casein, Strasbourg
+turpentine, gesso and linen on panel. Photo by George
+Chapman
 
 GC: Can you talk about your trajectory into painting? What were your
 early visual art influences? Any particular works that come to mind,
@@ -75,7 +82,13 @@ inherent transparency or opaqueness, their viscosity or fluidity. I feel
 these works embody tension between a two-dimensional image and
 three-dimensional object.
 
-![Oliver Guyon, 'Britney', 2018. Mineral pigment, casein, Strasbourg turpentine, gesso and linen on panel. Photo by George Chapman.](/assets/img/interview_with_ollie_guyon-2.jpg)
+![Oliver Guyon, 'Britney', 2018. Mineral pigment, casein, Strasbourg
+turpentine, gesso and linen on panel. Photo by George
+Chapman](/assets/img/interview_with_ollie_guyon-2.jpg)
+
+Oliver Guyon, 'Britney', 2018. Mineral pigment, casein, Strasbourg
+turpentine, gesso and linen on panel. Photo by George
+Chapman
 
 GC: I've struggled to compare your painting 'Britney' to other
 contemporary minimalist or abstract paintings. One artist whose work
@@ -114,7 +127,13 @@ about what paint represents, then it should be possible to find a
 meaning within paint itself: this is where the language of alchemy is
 most useful.
 
-![Oliver Guyon, 'Britney' (detail), 2018. Mineral pigment, casein, Strasbourg turpentine, gesso and linen on panel. Photo by George Chapman.](/assets/img/interview_with_ollie_guyon-3.jpg)
+![Oliver Guyon, 'Britney' (detail), 2018. Mineral pigment, casein,
+Strasbourg turpentine, gesso and linen on panel. Photo by George
+Chapman.](/assets/img/interview_with_ollie_guyon-3.jpg)
+
+Oliver Guyon, 'Britney' (detail), 2018. Mineral pigment, casein,
+Strasbourg turpentine, gesso and linen on panel. Photo by George
+Chapman
 
 GC: What attracted you to using orpiment, given its toxicity and
 incompatibility with other pigments and substances? Do you routinely
@@ -136,4 +155,4 @@ toxic and inorganic substances due to their chemical instabilities.
 However, earths, oxides and some natural dyes are still a staple in my
 studio.
 
-*(Email interview conducted July 2020)*
+_(Email interview conducted July 2020)_

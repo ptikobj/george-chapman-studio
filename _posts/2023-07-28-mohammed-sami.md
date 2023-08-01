@@ -13,6 +13,7 @@ image_caption:
 date: 28/07/2023
 permalink: /writing/mohammed-sami-the-banality-of-time.html
 ---
+
 # Mohammed Sami: The Banality of Time {#title}
 28 July 2023
 
@@ -63,6 +64,8 @@ happening at the same time.
 
 ![Mohammed Sami, 'Meditation Room' (2022). Mixed media on linen. 280 x 230 cm. Photo by Rob Harris. Courtesy of the artist and Modern Art, London](/assets/img/mohammed-sami-1.jpg)
 
+Mohammed Sami, 'Meditation Room' (2022). Mixed media on linen. 280 x 230 cm. Photo by Rob Harris. Courtesy of the artist and Modern Art, London
+
 Similarly, in _The Praying Room_ (2021), Sami conjures the banality and
 the sinister by rendering an empty room, with a pair of hands in
 supplication appearing before us even as the face and body are obscured
@@ -73,6 +76,8 @@ created by the empty space, and unease created by the shadow of the
 plant and doorway.
 
 ![Mohammed Sami, 'The Praying Room' (2021). Mixed media on linen. 230 x 285 cm. Photo by Rob Harris. Courtesy of the artist and Modern Art, London](/assets/img/mohammed-sami-2.jpg)
+
+Mohammed Sami, 'The Praying Room' (2021). Mixed media on linen. 230 x 285 cm. Photo by Rob Harris. Courtesy of the artist and Modern Art, London
 
 In her memoir _In Memory of Memory_, the Russian poet and novelist Maria
 Stepanova ruminates on her family's collective past, prompted by a cache
@@ -106,6 +111,8 @@ favourite, and that he returns to the country every month.
 
 ![Mohammed Sami, 'Refugee Camp' (2022). Mixed media on linen. 290 x 590 cm. Photo by Rob Harris. Courtesy of the artist and Modern Art, London](/assets/img/mohammed-sami-3.jpg)
 
+Mohammed Sami, 'Refugee Camp' (2022). Mixed media on linen. 290 x 590 cm. Photo by Rob Harris. Courtesy of the artist and Modern Art, London
+
 The themes of loneliness and absence are persistent throughout the
 exhibition, and combined with the elements of the sinister and the
 banal, they also add a sense of haunting to Sami's work. _Ten Siblings_
@@ -124,7 +131,9 @@ The comparison feels even more apt considering the context of the Iraq
 War which rendered Sami a refugee in Sweden in 2007 before his
 resettlement in the UK.
 
-![Installation view of Mohammed Sami, _The Point 0_, at Camden Art Centre 2023. Photography by Rob Harris.](/assets/img/mohammed-sami-4.jpg)
+![Installation view of Mohammed Sami, _The Point 0_, at Camden Art Centre 2023. Photography by Rob Harris](/assets/img/mohammed-sami-4.jpg)
+
+Installation view of Mohammed Sami, _The Point 0_, at Camden Art Centre 2023. Photography by Rob Harris
 
 In another painting, _Father Figure 1_ (2019) shows a speckled tiled
 wall with a mirror reflecting the identical patterning on the wall
@@ -148,6 +157,8 @@ of Saddam would've been hung. Its absence creates a box of light that
 disintegrates into the shadowed edges of the painting.
 
 ![Mohammed Sami, 'Weeping Walls III' (2022). Mixed media on linen. 75.5 x 65 cm. Photo by Rob Harris. Courtesy of the artist and Modern Art, London](/assets/img/mohammed-sami-5.jpg)
+
+Mohammed Sami, 'Weeping Walls III' (2022). Mixed media on linen. 75.5 x 65 cm. Photo by Rob Harris. Courtesy of the artist and Modern Art, London
 
 There's a saying that Stepanova quotes from her great-grandfather in her
 memoirs: _'es redt zich azoi'_, literally, 'it is indeed so', but the

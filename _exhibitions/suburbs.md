@@ -1,5 +1,5 @@
 ---
-layout: paintings
+layout: exhibition
 title: Suburbs — Exhibitions — George Chapman
 category: Suburbs
 date: 04/04/2011

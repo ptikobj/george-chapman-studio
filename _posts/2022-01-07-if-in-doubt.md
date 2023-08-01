@@ -12,6 +12,7 @@ image_caption:
 date: 07/01/2022
 permalink: /writing/if-in-doubt.html
 ---
+
 # If in doubt {#title}
 7 January 2022
 
@@ -60,7 +61,9 @@ themselves… They might set a goal for themselves – write fifteen hundred
 words, or stay at their desk until noon – but the real secret is that
 they do this every day."
 
-![If in doubt, draw.](/assets/img/JZLXuBz.jpg)
+![If in doubt, draw](/assets/img/JZLXuBz.jpg)
+
+If in doubt, draw
 
 I do wonder if there isn't more to it than just showing up to the studio
 every day, even with a goal in mind. The hard part for me has never been

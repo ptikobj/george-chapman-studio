@@ -83,6 +83,8 @@ Chapman's city is such a sponge, a limitless resource of re-imaginings
 in paint. It is the city where the artifice of memory simultaneously
 crumbles and is re-imagined.
 
-*Natasha Norman*
+_Natasha Norman_
 
 ![Studio, Cape Town, 2010](/assets/img/studio-cape-town-2010.jpg)
+
+Studio, Cape Town, 2010

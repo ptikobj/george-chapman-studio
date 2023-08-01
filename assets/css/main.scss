@@ -35,22 +35,13 @@ img {
   max-height: 100%;
 }
 
-// if (title === "writing") {
-//   all = document.querySelectorAll("img[alt]:not(.dib)");
-//   all = Object.keys(all).map((e)=>{return all[e];});
-//   all.forEach((e)=>{
-//     let p = document.createElement('p');
-//     p.className = "f6 f5-ns measure typewriter";
-//     p.innerText = e.alt;
-//     e.parentNode.insertBefore(p, e.nextSibling);
-//   });
-// }
-
 // Custom styles for blog/post pages to avoid using JavaScript
-
 @media screen and (min-width: 30em) {
+
   .blogpost h1,
-  .blogpost h2 {
+  .blogpost h2,
+  .exhibition h1,
+  .exhibition h2 {
     // .f5
     font-size: 1rem;
     // .fw1
@@ -62,16 +53,20 @@ img {
     // .mt0
     margin-top:var(--spacing-none);
   }
-  .blogpost h1 + p {
+
+  .blogpost h1 + p,
+  .exhibition h1 + p {
     // .lh-solid
     line-height: 1;
   }
+
   .blogpost h2 ~ p {
     // .f6
     font-size: .875rem;
     // .typewriter
     font-family: 'Courier New', 'Courier', 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
   }
+
   .blogpost h2 ~ p > a {
     // .bb
     border-bottom: 1px solid;
@@ -93,6 +88,7 @@ img {
     // .typewriter
     font-family: 'Courier New', 'Courier', 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
   }
+
   .blogpost h2 ~ p > a:hover,
   .blogpost h2 ~ p > a:focus {
     // .hover-red
@@ -104,28 +100,65 @@ img {
     // .link
     transition: color .15s ease-in;
   }
+  // Image captions
+  .blogpost p:has(img) + p,
+  .exhibition p:has(img) + p {
+    // f6 
+    font-size: .875rem;
+    // measure
+    max-width: 30em;
+    // typewriter"
+    font-family: 'Courier New', 'Courier', 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+  }
+
 }
 
 @media screen and (min-width: 30em) and (max-width: 60em) {
+  
   .blogpost h1,
-  .blogpost h2 {
+  .blogpost h2,
+  .exhibition h1,
+  .exhibition h2 {
     // .f4-m
     font-size: 1.25rem;
   }
-  .blogpost h2 ~ p {
+
+  .blogpost h2 ~ p,
+  .exhibition h2 ~ p {
     // .f5-ns
     font-size: 1rem;
   }
+
+  // Image captions
+  .blogpost p:has(img) + p,
+  .exhibition p:has(img) + p {
+    // f5-ns
+    font-size: 1rem;
+  }
+
 }
 
 @media screen and (min-width: 60em) {
+
   .blogpost h1,
-  .blogpost h2 {
+  .blogpost h2,
+  .exhibition h1,
+  .exhibition h2 {
     // .f3-l
     font-size:1.5rem;
   }
-  .blogpost h2 ~ p {
+
+  .blogpost h2 ~ p,
+  .exhibition h2 ~ p {
     // .f5-ns
     font-size: 1rem;
   }
+
+  // Image captions
+  .blogpost p:has(img) + p,
+  .exhibition p:has(img) + p {
+    // f5-ns
+    font-size: 1rem;
+  }
+
 }

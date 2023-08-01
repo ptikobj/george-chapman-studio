@@ -1,5 +1,5 @@
 ---
-layout: paintings
+layout: exhibition
 title: GARAGE — Exhibitions — George Chapman
 category: GARAGE
 date: 19/10/2017

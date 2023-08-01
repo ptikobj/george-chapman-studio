@@ -1,13 +1,23 @@
 ---
 layout: default
 ---
-{% assign exhibitions = site.data.exhibitions | sort: "year" | reverse %}
-{% for item in exhibitions %}
-  <!-- image link -->
-  <div class="flex ctr-align fl w-100 w-50-m w-third-l pv3 pa4-ns tl tc-ns">
-    <a href="{{ site.url }}/exhibitions/{{ item.title | slugify }}.html" title="{{ item.title }}" class="black-90 hover-red link painting">
-      <img src="{{ site.url }}/assets/img/{{ item.image }}" alt="{{ item.title }}" class="dib painting">
+<section class="mw7 center">
+  {% for post in site.posts %}
+  <article class="pt2 pb4">
+    <a href="{{ post.url }}" title="{{ post.short_title }}" class="black-90 hover-red link writing">
+      <div class="flex flex-column flex-row-ns">
+        <div class="w-100 w-70-ns pr3-ns order-2 order-1-ns">
+          <h2 class="f3 mt0 lh-title">{{ post.short_title }}</h1>
+          <time class="dn-ns db f6">{{ post.date | date: "%-d %B %Y" }}</time>
+          <p class="f5 f4-l lh-copy">{{ post.description }}</p>
+          <time class="dn db-ns f5">{{ post.date | date: "%-d %B %Y" }}</time>
+        </div>
+        <div class="pl3-ns order-1 order-2-ns mb4 mb0-ns w-100 w-30-ns">
+          <img src="{{ site.url }}/assets/img/{{ post.image }}" alt="{{ post.image_alt }}" class="db">
+          <p class="f6 f5-ns lh-copy measure typewriter">{{ post.image_caption }}</p>
+        </div>
+      </div>
     </a>
-  </div>
-  <!-- /image link -->
-{% endfor %}
+  </article>
+  {% endfor %}
+</section>

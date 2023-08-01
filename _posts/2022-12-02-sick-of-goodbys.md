@@ -12,6 +12,7 @@ image_caption:
 date: 02/12/2022
 permalink: /writing/sick-of-goodbys.html
 ---
+
 # Sick of goodby's {#title}
 2 December 2022
 
@@ -56,6 +57,8 @@ had opened up since Brittney's stepfather Roger died from Covid. He is
 the seventh family member we have lost in as many years.
 
 ![Robert Frank, 'Sick of Goodby's' (1978)](/assets/img/iay3ORj.jpg)
+
+Robert Frank, 'Sick of Goodby's' (1978)
 
 Nick Cave's talk led me to think about a photograph by Robert Frank: a
 disturbing dual image of a mirror stained with what looks like blood,
@@ -111,3 +114,5 @@ up at the ceiling, and the sadness falls on you. Things move on, time
 passes, people go away, and sometimes they don't come back."
 
 ![Studio, Hertfordshire, October 2022](/assets/img/nT4LVuD.jpg)
+
+Studio, Hertfordshire, October 2022

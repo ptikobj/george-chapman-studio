@@ -11,6 +11,7 @@ image_caption:
 date: 18/02/2022
 permalink: /writing/nothing-out-there.html
 ---
+
 # Nothing out there {#title}
 18 February 2022
 
@@ -37,6 +38,8 @@ periphery, then I felt it was a kind of nostalgia for something that
 never was: a mourning for a lost future.
 
 ![Lighthouse church on Voortrekker Road, Bellville](/assets/img/2J0n6PU.jpg)
+
+Lighthouse church on Voortrekker Road, Bellville
 
 The word nostalgia is related to the German word Heimweh, which often
 means homesickness. By this definition we can understand how the longing
@@ -74,6 +77,8 @@ to answer in his search for closure. In the end he is both compelled and
 destroyed by his obsession.
 
 ![Rex at the petrol station in 'Spoorloos' (1988, dir. George Sluizer)](/assets/img/bUx4l89.jpg)
+
+Rex at the petrol station in 'Spoorloos' (1988, dir. George Sluizer)
 
 Like Rex, I developed an obsession with these haunting, evocative
 non-places in Cape Town, either searching for lost memories or seeking
@@ -141,7 +146,9 @@ the printmaking process, and to offer a range of original, limited
 edition prints made only for their shop. My print is now available to
 buy from their website.
 
-!['Summit Club # 2' (2022). Limited edition screenprint on Fabriano 5 300gsm.](/assets/img/7SRZRnB.jpg)
+!['Summit Club # 2' (2022). Limited edition screenprint on Fabriano 5 300gsm](/assets/img/7SRZRnB.jpg)
+
+'Summit Club # 2' (2022). Limited edition screenprint on Fabriano 5 300gsm
 
 I'll also be exhibiting new work in the group show 'Badlands' at [no
 format
@@ -152,3 +159,5 @@ The exhibition also features work by Emily Mary Barnett, Ollie Guyon,
 Henry Tyrrell.  
 
 !['Badlands' exhibition poster](/assets/img/jgMtPPS.jpg)
+
+'Badlands' exhibition poster

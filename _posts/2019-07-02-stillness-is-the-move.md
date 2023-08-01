@@ -16,6 +16,7 @@ image_caption: "Image: &copy; Tess Jaray, courtesy of Karsten Schubert, London"
 date: 02/07/2019
 permalink: /writing/stillness-is-the-move.html
 ---
+
 # Stillness Is the Move: Material and transcendental space in Tess Jaray and Mark Rothko's paintings {#title}
 2 July 2019
 
@@ -37,7 +38,10 @@ attesting to the transcendental aims of Rothko's work: "We are cluttered
 with images and only abstract art can bring us to the threshold of the
 divine."
 
-![Rothko Chapel, Houston, Texas. Photo by Hickey-Robertson.](/assets/img/stillness_is_the_move-1.jpg)
+![Rothko Chapel, Houston, Texas. Photo by
+Hickey-Robertson](/assets/img/stillness_is_the_move-1.jpg)
+
+Rothko Chapel, Houston, Texas. Photo by Hickey-Robertson
 
 When I arrived at the chapel, the first thing that struck me was its
 size. I was expecting a building about the area of a modernist Dutch
@@ -62,7 +66,10 @@ in this act of scanning each area over and over that you begin to lose
 sense of the physical surrounding. The material world dissolves in a
 meditative gaze, and you begin to feel outside of time.
 
-![Rothko Chapel, Houston, Texas. Photo by Hickey-Robertson.](/assets/img/stillness_is_the_move-2.jpg)
+![Rothko Chapel, Houston, Texas. Photo by
+Hickey-Robertson](/assets/img/stillness_is_the_move-2.jpg)
+
+Rothko Chapel, Houston, Texas. Photo by Hickey-Robertson
 
 Rothko had always aimed to create work that transcended the material
 world. The chapel therefore functions as a space to facilitate that
@@ -82,7 +89,9 @@ exhibition From Outside, I felt a similar compulsion as with the Rothko
 Chapel to make the 250 mile round trip to see Jaray's six paintings
 hanging in the Barber Institute of Fine Arts.
 
-![Tess Jaray, "From Outside" (installation view), 2019 © Tess Jaray, 2019. All rights reserved. Courtesy of Karsten Schubert, London.](/assets/img/stillness_is_the_move-3.jpg)
+![Tess Jaray, 'From Outside' (installation view), 2019 © Tess Jaray, 2019. All rights reserved. Courtesy of Karsten Schubert, London](/assets/img/stillness_is_the_move-3.jpg)
+
+Tess Jaray, 'From Outside' (installation view), 2019 © Tess Jaray, 2019. All rights reserved. Courtesy of Karsten Schubert, London
 
 For the exhibition, Jaray meditated on the architecture of the Barber
 Institute and created six site-specific paintings responding to the
@@ -105,11 +114,29 @@ reflected the architecture of the Barber Institute for me, but I felt a
 strong relation between her use of colour and my subjective experience
 of the space.
 
-![Tess Jaray, Crossing, 2017 © Tess Jaray, 2019. All rights reserved. Courtesy of Karsten Schubert, London.](/assets/img/stillness_is_the_move-4.jpg)
+![Tess Jaray, Crossing, 2017 © Tess Jaray, 2019. All rights reserved.
+Courtesy of Karsten Schubert,
+London](/assets/img/stillness_is_the_move-4.jpg)
 
-![Tess Jaray, Revue, 2018 © Tess Jaray, 2019. All rights reserved. Courtesy of Karsten Schubert, London.](/assets/img/stillness_is_the_move-5.jpg)
+Tess Jaray, Crossing, 2017 © Tess Jaray, 2019. All rights reserved.
+Courtesy of Karsten Schubert,
+London
 
-![Tess Jaray, Fez Green, 2017 © Tess Jaray, 2019. All rights reserved. Courtesy of Karsten Schubert, London.](/assets/img/stillness_is_the_move-6.jpg)
+![Tess Jaray, Revue, 2018 © Tess Jaray, 2019. All rights reserved.
+Courtesy of Karsten Schubert,
+London](/assets/img/stillness_is_the_move-5.jpg)
+
+Tess Jaray, Revue, 2018 © Tess Jaray, 2019. All rights reserved.
+Courtesy of Karsten Schubert,
+London
+
+![Tess Jaray, Fez Green, 2017 © Tess Jaray, 2019. All rights reserved.
+Courtesy of Karsten Schubert,
+London](/assets/img/stillness_is_the_move-6.jpg)
+
+Tess Jaray, Fez Green, 2017 © Tess Jaray, 2019. All rights reserved.
+Courtesy of Karsten Schubert,
+London
 
 As a graduate of Slade in 1960, Jaray visited Italy on a scholarship
 trip that would leave an indelible mark on her painting practice. Her

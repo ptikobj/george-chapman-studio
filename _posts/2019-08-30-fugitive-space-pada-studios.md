@@ -11,6 +11,7 @@ image_caption: "Image: &copy; Fiona Grady / PADA Studios"
 date: 30/10/2019
 permalink: /writing/fugitive-space-pada-studios.html
 ---
+
 # Fugitive Space: PADA Studios {#title}
 30 August 2019
 
@@ -22,10 +23,12 @@ waiting rooms where travellers break step, of all the chance meeting
 places where fugitive feelings occur of the possibility of continuing
 adventure, the feeling that all there is to do is to *see what
 happens*."
-> — Marc Augé, *Non-Places: An Introduction to an Anthropology of
-Supermodernity*
+> — Marc Augé, _Non-Places: An Introduction to an Anthropology of
+Supermodernity_
 
 ![PADA Studios, Barreiro. Photo: PADA Studios](/assets/img/fugitive_space-1.jpg)
+
+PADA Studios, Barreiro. Photo: PADA Studios
 
 Barreiro is a town located about six miles south of Lisbon across the
 Tagus. It is the home of the former Companhia União Fabril, a
@@ -54,6 +57,8 @@ participating in their residency programme.
 
 ![Tim Ralston and Diana Cerezino, founders of PADA Studios. Photo: Fiona Grady](/assets/img/fugitive_space-2.jpg)
 
+Tim Ralston and Diana Cerezino, founders of PADA Studios. Photo: Fiona Grady
+
 In the summer of 2018, Tim Ralston and Diana Cerezino relocated from
 London to Barreiro to set up PADA Studios in Barreiro on the grounds of
 the former CUF industrial estate. "It began as a dream, a way to start a
@@ -75,6 +80,8 @@ end of the residency, artists are left to get on with their own work
 schedules in the studio.
 
 ![Pyrite field on the former industrial estate of CUF, now owned by Baía do Tejo. Photo: PADA Studios](/assets/img/fugitive_space-3.jpg)
+
+Pyrite field on the former industrial estate of CUF, now owned by Baía do Tejo. Photo: PADA Studios
 
 PADA was my first artist residency experience, and so I wasn't sure what
 to expect as I had nothing to compare it with. I found the environment
@@ -120,3 +127,5 @@ artists who work around the clock had a way of resuscitating my flagging
 ambition to create something new.
 
 ![Superette, a group show featuring the work of PADA artists-in-residence during August 2019. Photo: PADA Studios](/assets/img/fugitive_space-4.jpg)
+
+Superette, a group show featuring the work of PADA artists-in-residence during August 2019. Photo: PADA Studios

@@ -14,6 +14,7 @@ image_caption: "Image: &copy; Tim Ayres"
 date: 19/05/2020
 permalink: /writing/look-know-alan-uglow.html
 ---
+
 # Look, Know: Alan Uglow {#title}
 19 May 2020
 
@@ -41,6 +42,8 @@ either way.
 
 ![Alan Uglow, Standard # 2 (Red Oxide), 2002, Acrylic on cotton, 214 x 183 cm. Courtesy the artist and Galerie Nordenhake Berlin / Stockholm / Mexico City. Photo: Gunter Lepkowski](/assets/img/look_know-alan_uglow-1.jpg)
 
+Alan Uglow, Standard # 2 (Red Oxide), 2002, Acrylic on cotton, 214 x 183 cm. Courtesy the artist and Galerie Nordenhake Berlin / Stockholm / Mexico City. Photo: Gunter Lepkowski
+
 Uglow operated within his own very specific rules of engagement: what
 was considered acceptable or necessary to the painting was constantly
 being questioned and discarded. "I learned from Giacometti a certain
@@ -60,6 +63,8 @@ for review.
 
 ![Alan Uglow, Untitled (White and Black), 1986, Oil on linen, 214 x 183 cm. Courtesy the artist and Galerie Nordenhake Berlin / Stockholm / Mexico City. Photo: Gerhard Kassner](/assets/img/look_know-alan_uglow-2.jpg)
 
+Alan Uglow, Untitled (White and Black), 1986, Oil on linen, 214 x 183 cm. Courtesy the artist and Galerie Nordenhake Berlin / Stockholm / Mexico City. Photo: Gerhard Kassner
+
 Aside from their meticulous order, the paintings also exhibit a stark
 completeness that makes them appear as some natural phenomena, slowly
 constructed over time. "I always want a piece to look like it just made
@@ -73,6 +78,8 @@ as "nearly glacial". As in natural phenomena, the experience of the work
 is felt by simply looking. No explanation can stand in for observation.
 
 ![Installation view "Alan Uglow", Galerie Nordenhake Berlin 2006. Courtesy the artist and Galerie Nordenhake Berlin / Stockholm / Mexico City. Photo: Gunter Lepkowski](/assets/img/look_know-alan_uglow-3.jpg)
+
+Installation view "Alan Uglow", Galerie Nordenhake Berlin 2006. Courtesy the artist and Galerie Nordenhake Berlin / Stockholm / Mexico City. Photo: Gunter Lepkowski
 
 No amount of theorising alone can validate a work. Yet when analysing
 Uglow's paintings it's almost as if no amount of theorising can
@@ -92,6 +99,8 @@ experienced directly, without diatribe or explanation. The viewer looks,
 and the viewer knows.
 
 ![Alan Uglow, Standard III, 1993, Acrylic on canvas, 214 x 183 cm. Courtesy the artist and Galerie Nordenhake Berlin / Stockholm / Mexico City. Photo: Gerhard Kassner](/assets/img/look_know-alan_uglow-4.jpg)
+
+Alan Uglow, Standard III, 1993, Acrylic on canvas, 214 x 183 cm. Courtesy the artist and Galerie Nordenhake Berlin / Stockholm / Mexico City. Photo: Gerhard Kassner
 
 ## Bibliography {#bibliography}
 
