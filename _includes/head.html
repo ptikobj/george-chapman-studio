@@ -17,5 +17,8 @@
     {% if site.ga_tag %}
       {% include analytics.html %}
     {% endif %}
+    {% if site.recaptcha %}
+      {% include recaptcha.html %}
+    {% endif %}
   </head>
   <body class="w-100 ph3 ph4-ns f5 f4-ns fw1 black-90 sans-serif bg-baby-powder">

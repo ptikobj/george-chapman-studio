@@ -2,7 +2,8 @@
 layout: default
 ---
 <section class="mw7 center">
-  {% for post in site.posts %}
+  {% assign filtered_posts = site.exhibitions | sort: 'date' | reverse %}
+  {% for post in filtered_posts %}
   <article class="pt2 pb4">
     <a href="{{ post.url }}" title="{{ post.short_title }}" class="black-90 hover-red link writing">
       <div class="flex flex-column flex-row-ns">

@@ -1,6 +1,6 @@
-{%-for item in include.collection-%}
+{% for item in include.collection %}
   <h2 class="f5 f4-m f3-l fw1 mt0 pv4">{{ item.title }}</h2>
-  {%-if item.entries-%}
-    {%-include cv-item-detail.html collection=item.entries-%}
-  {%-endif-%}
+  {% if item.entries %}
+    {% include cv-item-detail.html collection=item.entries %}
+  {% endif %}
 {% endfor %}

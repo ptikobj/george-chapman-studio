@@ -7,6 +7,7 @@ baseurl: ""
 url: "https://georgechapman.studio"
 instagram: gn.chapman
 ga_tag: G-SEL2XXVY0C
+recaptcha: 6LcorKEnAAAAAGwgRU4wqG8o68EGFh789Zqg7Lsx
 newsletter_url: https://buttondown.email/georgechapman
 collections:
   paintings:
@@ -19,12 +20,32 @@ favicon: "favicon.ico"
 
 # Build settings
 sass:
-    style: compressed
+  style: compressed
 
 compress_html:
   clippings: all
   comments: [""]
-  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
+  endings:
+    [
+      html,
+      head,
+      body,
+      li,
+      dt,
+      dd,
+      rt,
+      rp,
+      optgroup,
+      option,
+      colgroup,
+      caption,
+      thead,
+      tbody,
+      tfoot,
+      tr,
+      td,
+      th,
+    ]
   profile: false
   blanklines: false
   ignore:

@@ -20,7 +20,7 @@ entries:
       year: 2023
       gallery: AMP Gallery
       location: London, GB
-      link:
+      link: /exhibitions/nest-of-salt.html
     - title: Badlands
       year: 2022
       gallery: no format Gallery
@@ -28,11 +28,16 @@ entries:
       link: https://www.secondfloor.co.uk/exhibitions/badlands-group-exhibition
   - title: Selected group exhibitions
     entries:
+    - title: Crash Ride Snare
+      year: 2023
+      gallery: Tension Fine Art
+      location: London, GB
+      link: https://www.tensionfineart.co.uk/exhibitions-crash-ride-snare/
     - title: Nest of Salt
       year: 2023
       gallery: AMP Gallery
       location: London, GB
-      link:
+      link: /exhibitions/nest-of-salt.html
     - title: SFSA Painting Open
       year: 2022
       gallery: no format Gallery
@@ -54,10 +59,10 @@ entries:
       location: London, GB
       link: https://thames-sidestudios.co.uk/news/exhibitions/2021/thames-side-studios-gallery-turps-offsite-painting-programme-2-16-oct-2021
     - title: Norval Foundation x Art Gazette
-      year: 2021
+      year: 2020
       gallery: Norval Foundation
       location: Cape Town, ZA
-      link: https://www.norvalfoundation.org/shop/
+      link: https://artgazette.com/projects/norval-foundation-0
     - title: Fronteer Open
       year: 2019
       gallery: 35 Chapel Walk
