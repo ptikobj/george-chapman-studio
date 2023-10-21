@@ -14,18 +14,19 @@ description: >-
 date: 02/03/2022
 permalink: /exhibitions/badlands.html
 location: no format Gallery, London
-exhibition_dates: 2 - 6 March 2022
+exhibition_dates: 2 — 6 March 2022
 image: badlands.jpg
 image_alt: >-
   Installation view of 'Badlands' group exhibition, no format Gallery,
   Deptford, London. Photo: Jérôme Favre
-image_caption:
+image_caption: >-
+  Photo: Jérôme Favre
 ---
 
-# Badlands {#title}
-2 — 6 March 2022
+# {{ page.short_title }} {#title}
+{{ page.exhibition_dates }}
 
-no format Gallery, London
+{{ page.location }}
 
 ![Nest of Salt](/assets/img/nest-of-salt-6.jpg)
 

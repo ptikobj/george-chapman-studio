@@ -104,9 +104,11 @@ lighting of the refugee camp reminds me of Hopper's painting _Gas_
 of calm and unease while depicting the familiar scene of a petrol
 station at night. (While Hopper is often thought of as the painter of
 loneliness, his paintings actually depict something more like the
-uncanniness of lonely spaces.) Sami mentioned [in an interview with The
-Guardian](https://www.theguardian.com/artanddesign/2022/mar/21/mohammed-sami-interview-iraqi-exile-painter-bullets-saddam-hussein)
-that his memories of his time spent as a refugee in Sweden are among his
+uncanniness of lonely spaces.) Sami mentioned <a
+href="https://www.theguardian.com/artanddesign/2022/mar/21/mohammed-sami-interview-iraqi-exile-painter-bullets-saddam-hussein"
+target="_blank" class="bb b--dashed bl-0 bt-0 br-0 black-90 hover-red
+link ma0 sans-serif">in an interview with The Guardian</a> that his
+memories of his time spent as a refugee in Sweden are among his
 favourite, and that he returns to the country every month.
 
 ![Mohammed Sami, 'Refugee Camp' (2022). Mixed media on linen. 290 x 590 cm. Photo by Rob Harris. Courtesy of the artist and Modern Art, London](/assets/img/mohammed-sami-3.jpg)
@@ -168,15 +170,17 @@ reality that is tinged with doubt — not at the actual events but at the
 unreliability of our own ability to recollect. "My paintings seek to
 capture the state of confusion that occurs because of the cut thread
 between reality and the imagination; between war narrated and war
-witnessed," [Sami tells
-us](https://camdenartcentre.org/file-notes/file-note-144-mohammed-sami).
-Each painting demonstrates that there is no single authoritative
-reading; rather, there are layers of truth and layers of conceit. When
-we mine the past for truth, the only concrete feeling we are left with
-is its haunting absence.
+witnessed," <a
+href="https://camdenartcentre.org/file-notes/file-note-144-mohammed-sami"
+target="_blank" class="bb b--dashed bl-0 bt-0 br-0 black-90 hover-red
+link ma0 sans-serif">Sami tells us</a>. Each painting demonstrates that
+there is no single authoritative reading; rather, there are layers of
+truth and layers of conceit. When we mine the past for truth, the only
+concrete feeling we are left with is its haunting absence.
 
 A new iteration of _The Point 0_, featuring four paintings not shown in
 the Camden Art Centre exhibition, is currently on at De La Warr Pavilion
-in Bexhil-on-Sea, East Sussex until 28 August 2023. Visit [De La Warr's
-website](https://www.dlwp.com/exhibition/mohammed-sami/) for more
-information.
+in Bexhil-on-Sea, East Sussex until 28 August 2023. Visit <a
+href="https://www.dlwp.com/exhibition/mohammed-sami/" target="_blank"
+class="bb b--dashed bl-0 bt-0 br-0 black-90 hover-red link ma0
+sans-serif">De La Warr's website</a> for more information.

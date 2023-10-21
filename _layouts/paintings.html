@@ -2,14 +2,10 @@
 layout: default
 ---
 <div class="flex flex-wrap">
-  {% if page.category %}
-    {% assign artworks = site.data.artworks | where:"category", page.category %}
-  {% else %}
-    {% assign artworks = site.data.artworks %}
-  {% endif %}
+  {% assign artworks = site.paintings | sort: 'year' | reverse %}
   {% for item in artworks %}
     <div class="fl w-100 w-50-m w-third-l pv3 pa4-ns tl tc-ns">
-      <a href="{{ site.url }}/paintings/{{ item.title | slugify }}.html" title="{{ item.title }}" class="dib black-90 hover-red link painting">
+      <a href="{{ site.url }}/paintings/{{ item.artwork_title | slugify }}.html" title="{{ item.title }}" class="dib black-90 hover-red link painting">
         <img src="{{ site.url }}/assets/img/{{ item.image }}" alt="{{ item.title }}">
       </a>
       <p class="tl f6 f5-ns measure typewriter">{{ item.title }}</p>

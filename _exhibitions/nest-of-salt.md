@@ -9,24 +9,23 @@ description: >-
   to artifice, in part meaning workmanship, the creation of something
   using craft and skill; in part meaning skill in cunning and trickery -
   the ability to create an impression or illusion of something by the
-  process of transformation. Art is linked to alchemy, the medieval form
-  of chemistry that dealt with the transformation of base materials into
-  gold.
+  process of transformation.
 date: 19/01/2023
 permalink: /exhibitions/nest-of-salt.html
 location: AMP Gallery, London
-exhibition_dates: 19 - 22 January 2023
+exhibition_dates: 19 — 22 January 2023
 image: 1000px-nest_of_salt.jpg
 image_alt: >-
   Installation view of 'Nest of Salt' group exhibition, AMP Gallery,
   Peckham, London. Photo: Jérôme Favre
-image_caption:
+image_caption: >-
+  Photo: Jérôme Favre
 ---
 
-# Nest of Salt {#title}
-19 — 22 January 2023
+# {{ page.short_title }} {#title}
+{{ page.exhibition_dates }}
 
-AMP Gallery, London
+{{ page.location }}
 
 ![Nest of Salt](/assets/img/nest-of-salt-6.jpg)
 
@@ -67,7 +66,7 @@ and their chemical substances:
 
 In other words, the effects produced by the properties of a substance
 are, in Elkins' view, inseparable from the substance itself and
-constitute its “body”. While painting is an act of transformation,
+constitute its "body". While painting is an act of transformation,
 Elkins demonstrates that the point might not be to transform the subject
 into paint; the point may simply be transformation itself.
 
