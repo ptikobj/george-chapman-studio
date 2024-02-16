@@ -12,12 +12,9 @@ date: 08/12/2010
 permalink: /exhibitions/i-can-never-sleep-on-sundays.html
 location: Michaelis School of Fine Art, Cape Town
 exhibition_dates: 8 — 21 December 2010
-image: 1000px-nest_of_salt.jpg
-image_alt: >-
-  Installation view of 'Nest of Salt' group exhibition, AMP Gallery,
-  Peckham, London. Photo: Jérôme Favre
-image_caption: >-
-  Photo: Jérôme Favre
+image:
+image_alt:
+image_caption:
 ---
 
 # {{ page.short_title }} {#title}
