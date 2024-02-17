@@ -1,7 +1,7 @@
 {% for item in include.collection %}
   {% assign link = item.link | strip_newlines %}
   {% assign gallery = item.gallery | strip_newlines %}
-  <p class="lh-copy measure-ns measure-wide-l mt0">
+  <p class="lh-copy measure-l measure-wide-l mt0">
     {% if gallery == "" %}
       {% if link == "" %}
         {{ item.year }} — {{ item.title }}{% if item.location %}, {{ item.location }}{% endif %}

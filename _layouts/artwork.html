@@ -1,23 +1,18 @@
 ---
 layout: default
 ---
-<div class="fl w-100 pt2 pb4 bb bn-ns blogpost">
-  <div class="fl w-30-l pa2 pb4 pb0-ns ma0 dn dib-ns"></div>
-  <div class="fl w-100 w-40-l pa2 pb4 pb0-ns ma0">
-    <div class="lh-copy measure-ns measure-wide-l mt0 mt1-l">
-      {% assign artworks = site.data.artworks | where:"title", page.artwork_title %}
-      {% for item in artworks %}
-      <a href="{{ site.url }}/paintings/{{ item.title | slugify }}.html" title="{{ item.title }}" class="black-90 hover-red link painting">
-        <img src="{{ site.url }}/assets/img/{{ item.image }}" alt="{{ item.title }}" class="dib painting w-100">
-      </a>
-      <p class="tl f6 f5-ns measure typewriter">{{ item.title }}</p>
-      <p class="tl f6 f5-ns measure typewriter">{{ item.year }}</p>
-      <p class="tl f6 f5-ns measure typewriter">{{ item.medium }}</p>
-      <p class="tl f6 f5-ns measure typewriter">{{ item.size }}</p>
-      {% endfor %}
+<div class="fl w-100 pt2 pb4 bb bn-l blogpost">
+  <div class="fl w-30-l pa2 pb4 pb0-l ma0 dn dib-l"></div>
+  <div class="fl w-100 w-40-l pa2 pb4 pb0-l ma0">
+    <div class="lh-copy measure-l measure-wide-l mt0 mt1-l">
+      <img src="{{ site.url }}/assets/img/{{ page.image }}" alt="{{ item.artwork_title }}" class="dib painting w-100">
+      <p class="tl f6 f5-l measure typewriter">{{ page.artwork_title }}</p>
+      <p class="tl f6 f5-l measure typewriter">{{ page.year }}</p>
+      <p class="tl f6 f5-l measure typewriter">{{ page.medium }}</p>
+      <p class="tl f6 f5-l measure typewriter">{{ page.size }}</p>
       <br>
       &mdash;
     </div>
-    <div class="fl w-30-l pa2 pb4 pb0-ns ma0 dn dib-ns"></div>
+    <div class="fl w-30-l pa2 pb4 pb0-l ma0 dn dib-l"></div>
   </div>
 </div>

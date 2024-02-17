@@ -1,6 +1,6 @@
 {% assign strPage = page.url | remove: ".html" | split: "/" | slice: 1 %}
-<nav class="dtc dn-ns dt--fixed v-mid mt2 w-100">
-  <div class="flex flex-column tl w-100 w-70-ns">
+<nav class="dtc dn-l dt--fixed v-mid mt2 w-100">
+  <div class="flex flex-column tl w-100 w-70-l">
     {% for item in site.data.navigation %}
     {% assign strLink = item.url | remove: ".html" | split: "/" | slice: 1 %}
       <a 

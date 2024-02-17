@@ -6,16 +6,16 @@ layout: default
   {% for post in filtered_posts %}
   <article class="pt2 pb4">
     <a href="{{ post.url }}" title="{{ post.short_title }}" class="black-90 hover-red link writing">
-      <div class="flex flex-column flex-row-ns">
-        <div class="w-100 w-70-ns pr3-ns order-2 order-1-ns">
+      <div class="flex flex-column flex-row-l">
+        <div class="w-100 w-70-l pr3-l order-2 order-1-l">
           <h2 class="f3 mt0 lh-title">{{ post.short_title }}</h1>
-          <time class="dn-ns db f6">{{ post.date | date: "%-d %B %Y" }}</time>
+          <time class="dn-l db f6">{{ post.date | date: "%-d %B %Y" }}</time>
           <p class="f5 f4-l lh-copy">{{ post.description }}</p>
-          <time class="dn db-ns f5">{{ post.date | date: "%-d %B %Y" }}</time>
+          <time class="dn db-l f5">{{ post.date | date: "%-d %B %Y" }}</time>
         </div>
-        <div class="pl3-ns order-1 order-2-ns mb4 mb0-ns w-100 w-30-ns">
+        <div class="pl3-l order-1 order-2-l mb4 mb0-l w-100 w-30-l">
           <img src="{{ site.url }}/assets/img/{{ post.image }}" alt="{{ post.image_alt }}" class="db">
-          <p class="f6 f5-ns lh-copy measure typewriter">{{ post.image_caption }}</p>
+          <p class="f6 f5-l lh-copy measure typewriter">{{ post.image_caption }}</p>
         </div>
       </div>
     </a>
