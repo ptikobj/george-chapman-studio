@@ -11,14 +11,10 @@
     {% endif %}
     <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | absolute_url }}" />
     <link rel="stylesheet" href="/assets/css/main.css" crossorigin="anonymous" />
-    <!-- <script type="text/javascript" src="/assets/js/custom.min.js"></script> -->
     <meta name="description" content="{{ site.description }}">
     <meta name="robots" content="index, nofollow">
     {% if site.ga_tag %}
       {% include analytics.html %}
-    {% endif %}
-    {% if site.recaptcha %}
-      {% include recaptcha.html %}
     {% endif %}
   </head>
   <body class="w-100 ph3 ph4-ns f5 f4-ns fw1 black-90 sans-serif bg-baby-powder">

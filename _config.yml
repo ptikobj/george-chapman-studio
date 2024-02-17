@@ -7,8 +7,6 @@ baseurl: ""
 url: "https://georgechapman.studio"
 instagram: gn.chapman
 ga_tag: G-SEL2XXVY0C
-# recaptcha: 6LcorKEnAAAAAGwgRU4wqG8o68EGFh789Zqg7Lsx
-newsletter_url: https://buttondown.email/georgechapman
 collections:
   paintings:
     output: true
