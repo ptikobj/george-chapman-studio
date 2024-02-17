@@ -14,6 +14,8 @@ date: 04/04/2011
 permalink: /exhibitions/suburbs.html
 exhibition_dates: 4 - 27 April 2011
 image: GC_UntitledIIISuburbs_2011.jpg
-image_alt: 'Untitled III (Suburbs)' by George Chapman
+image_alt: "'Untitled III (Suburbs)' by George Chapman"
 image_caption: 'Untitled III (Suburbs)'
 ---
+
+Hello, world!
