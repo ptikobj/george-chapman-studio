@@ -1,20 +1,30 @@
 ---
 layout: default
 ---
-<section class="mw7 center">
+
+<section class="mw7 center pt4">
   {% for post in site.posts %}
   <article class="pt2 pb4">
-    <a href="{{ post.url }}" title="{{ post.short_title }}" class="black-90 hover-red link writing">
+    <a
+      href="{{ post.url }}"
+      title="{{ post.short_title }}"
+      class="black-90 hover-red link writing"
+    >
       <div class="flex flex-column flex-row-l">
         <div class="w-100 w-70-l pr3-l order-2 order-1-l">
-          <h2 class="f3 mt0 lh-title">{{ post.short_title }}</h1>
-          <time class="dn-l db f6">{{ post.date | date: "%-d %B %Y" }}</time>
+          <h2 class="f3 mt0 lh-title">{{ post.short_title }}</h2>
+          <time class="db f5">{{ post.date | date: "%-d %B %Y" }}</time>
           <p class="f5 f4-l lh-copy">{{ post.description }}</p>
-          <time class="dn db-l f5">{{ post.date | date: "%-d %B %Y" }}</time>
         </div>
         <div class="pl3-l order-1 order-2-l mb4 mb0-l w-100 w-30-l">
-          <img src="{{ site.url }}/assets/img/{{ post.image }}" alt="{{ post.image_alt }}" class="db">
-          <p class="f6 f5-l lh-copy measure typewriter">{{ post.image_caption }}</p>
+          <img
+            src="{{ site.url }}/assets/img/{{ post.image }}"
+            alt="{{ post.image_alt }}"
+            class="db w-100 h-auto"
+          />
+          <p class="f6 f5-l lh-copy measure">
+            {{ post.image_caption }}
+          </p>
         </div>
       </div>
     </a>
