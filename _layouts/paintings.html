@@ -6,20 +6,27 @@ layout: default
   <div class="flex flex-wrap">
     {% assign artworks = site.paintings | sort: 'year' | reverse %}
     {% for item in artworks %}
-    {%- assign modulo = forloop.index | modulo: 3 -%}
-    <div class="w-100 w-third-l pv3 pa4-l">
+    {%- assign modulo = forloop.index | modulo: 3 -%} {% if modulo == 1 %}
+    {% assign class = "w-100 w-third-l pv3 pv4-l pr4-l" %}
+    {% elsif modulo == 2 %}
+    {% assign class = "w-100 w-third-l pv3 pv4-l" %}
+    {% elsif modulo == 0 %}
+    {% assign class = "w-100 w-third-l pv3 pv4-l pl4-l" %}
+    {% endif %}
+    <div class="{{ class }}">
       <a
-        href="{{ site.url }}/paintings/{{ item.artwork_title | slugify }}.html"
-        title="{{ item.title }}"
-        class="dib black-90 hover-red link painting"
+      href="{{ site.url }}/paintings/{{ item.artwork_title | slugify }}.html"
+      title="{{ item.title }}"
+      class="black-90 hover-red link painting"
       >
         <img
           src="{{ site.url }}/assets/img/{{ item.image }}"
           alt="{{ item.title }}"
+          class="w-100 h-auto"
         />
+        <p class="tl f6 f5-l measure">{{ item.artwork_title }}</p>
+        <p class="tl f6 f5-l measure">{{ item.year }}</p>
       </a>
-      <p class="tl f6 f5-l measure">{{ item.artwork_title }}</p>
-      <p class="tl f6 f5-l measure">{{ item.year }}</p>
     </div>
     {% endfor %}
   </div>

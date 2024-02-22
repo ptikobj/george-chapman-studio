@@ -2,14 +2,19 @@
 layout: default
 ---
 
-<div class="fl w-100 pt2 pb4">
+<div class="fl w-100 pt2 pb4-l">
   <div class="fl w-100 w-20-l pb4">
-    <h2 class="dn dib-l f5 f4-m f3-l fw1 lh-copy mt0">{{ page.short_title }}</h2>
+    <h2 class="dn dib-l f5 f4-m f3-l fw1 lh-copy mt0">
+      {{ page.short_title }}
+    </h2>
   </div>
-  <div class="fl w-100 w-80-l pb4">
+  <div class="fl w-100 w-80-l pb4-l">
     {%- include contact-form.html -%}
-    <br>
-    <br>
-    <p class="dib">—</p>
+  </div>
+  <div class="fl w-100 w-20-l pv4">
+    <h2 class="dn dib-l f5 f4-m f3-l fw1 lh-copy mt0">Newsletter</h2>
+  </div>
+  <div class="fl w-100 w-80-l pv4">
+    {%- include newsletter-form.html -%}
   </div>
 </div>
